@@ -11,46 +11,54 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:959dda2308594f694670@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260129T133000Z
 DTEND:20260129T143000Z
 SUMMARY:Q4 Thermo Fisher Scientific Earnings Conference Call
 LOCATION:https://ir.thermofisher.com/investors/overview/default.aspx
 URL:https://ir.thermofisher.com/investors/overview/default.aspx
-DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2025\nEarnings call/webca
- st: https://ir.thermofisher.com/investors/overview/default.aspx\nOfficial
-  earnings-call source: https://ir.thermofisher.com/investors/news-events/
- news/default.aspx
+DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $12.21 billion\,
+  up 7% year over year\, with 3% organic revenue growth.\n- GAAP diluted E
+ PS was $5.21\, up 9%\; adjusted EPS was $6.57\, up 8%.\n- GAAP operating 
+ margin was 18.5% and adjusted operating margin was 23.6%.\n- Full-year 20
+ 25 revenue was $44.56 billion\, up 4%\, with adjusted EPS of $22.87.\n\nO
+ fficial financial results: https://ir.thermofisher.com/investors/news-eve
+ nts/news/news-details/2026/Thermo-Fisher-Scientific-Reports-Fourth-Quarte
+ r-and-Full-Year-2025-Results/\n\nFiscal year: 2025\nEarnings call/webcast
+ : https://ir.thermofisher.com/investors/overview/default.aspx\nOfficial e
+ arnings-call source: https://ir.thermofisher.com/investors/news-events/ne
+ ws/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5ea83e79ba4fb37a6863@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260202T130000Z
 DTEND:20260202T140000Z
 SUMMARY:Q1 Twist Bioscience Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/g5syr63d/
 URL:https://edge.media-server.com/mmc/p/g5syr63d/
-DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/g5syr63d/\nOfficial earnings-call
-  source: https://investors.twistbioscience.com/events-and-presentations/e
- vents/
+DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $103.7 million a
+ nd gross margin was 52%.\n- DNA Synthesis and Protein Solutions revenue w
+ as $51.1 million\, up 27%\, with approximately 271\,000 genes shipped.\n-
+  NGS Applications revenue was $52.6 million\; excluding one large custome
+ r\, the business grew 18%.\n- Adjusted EBITDA loss was $13.4 million\; fu
+ ll-year 2026 revenue guidance was $435-$440 million with Q4 adjusted EBIT
+ DA breakeven targeted.\n\nOfficial financial results: https://investors.t
+ wistbioscience.com/static-files/99572881-599b-41b6-a1c3-9c776d5b1604\n\nF
+ iscal year: 2026\nEarnings call/webcast: https://edge.media-server.com/mm
+ c/p/g5syr63d/\nOfficial earnings-call source: https://investors.twistbios
+ cience.com/events-and-presentations/events/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a68111b6a4bf5be13cbd@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260205T213000Z
 DTEND:20260205T223000Z
 SUMMARY:Q4 Illumina Earnings Conference Call
@@ -72,27 +80,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fe50db0296aecb1218db@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260205T213000Z
 DTEND:20260205T223000Z
 SUMMARY:Q4 Adaptive Biotechnologies Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/9zb5665o/
 URL:https://edge.media-server.com/mmc/p/9zb5665o/
-DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2025\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/9zb5665o/\nOfficial earnings-call
-  source: https://investors.adaptivebiotech.com/events/event-details/adapt
- ive-biotechnologies-fourth-quarter-financial-results-5/
+DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $71.7 million\, 
+ up 51% year over year\; MRD revenue was $61.9 million\, up 54%.\n- clonoS
+ EQ test volume was 30\,038\, up 43% year over year.\n- GAAP net loss was 
+ $13.6 million\; adjusted EBITDA was positive $4.1 million versus a $16.4 
+ million loss a year earlier.\n- Initial 2026 MRD revenue guidance was $25
+ 5-$265 million.\n\nOfficial financial results: https://investors.adaptive
+ biotech.com/news-releases/news-release-details/adaptive-biotechnologies-r
+ eports-fourth-quarter-and-full-year-5\n\nFiscal year: 2025\nEarnings call
+ /webcast: https://edge.media-server.com/mmc/p/9zb5665o/\nOfficial earning
+ s-call source: https://investors.adaptivebiotech.com/events/event-details
+ /adaptive-biotechnologies-fourth-quarter-financial-results-5/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0a95dd546f892a0f2dbf@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260210T133000Z
 DTEND:20260210T143000Z
 SUMMARY:Q4 Quest Earnings Conference Call
@@ -117,27 +129,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:579a27eb8c91ed6789e9@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260212T213000Z
 DTEND:20260212T223000Z
 SUMMARY:Q4 10x Genomics Earnings Conference Call
 LOCATION:https://events.q4inc.com/attendee/902787106
 URL:https://events.q4inc.com/attendee/902787106
-DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2025\nEarnings call/webca
- st: https://events.q4inc.com/attendee/902787106\nOfficial earnings-call s
- ource: https://investors.10xgenomics.com/events-and-presentations/default
- .aspx
+DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $166.0 million\,
+  up 1% year over year.\n- Consumables revenue grew 6%\, including 3% grow
+ th in single-cell consumables and 14% growth in spatial consumables\; ins
+ trument revenue declined 36%.\n- Gross margin was 68% and operating expen
+ ses declined 18% year over year.\n- Cash and cash equivalents were approx
+ imately $523 million\; initial 2026 revenue guidance was $600-$625 millio
+ n.\n\nOfficial financial results: https://s28.q4cdn.com/592666581/files/d
+ oc_financials/2025/q4/TXG_Q4-and-Full-Year-2025_Earnings-Prepared-Remarks
+ -02-12-26.pdf\n\nFiscal year: 2025\nEarnings call/webcast: https://events
+ .q4inc.com/attendee/902787106\nOfficial earnings-call source: https://inv
+ estors.10xgenomics.com/events-and-presentations/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2850521bb3cc771224fa@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260212T220000Z
 DTEND:20260212T230000Z
 SUMMARY:Q4 PacBio Earnings Conference Call
@@ -163,8 +179,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:40823c0cfe05af80fe01@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260217T133000Z
 DTEND:20260217T143000Z
 SUMMARY:Q4 NeoGenomics Earnings Conference Call
@@ -185,8 +201,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0dc7ec5709d3b06d172b@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260217T140000Z
 DTEND:20260217T150000Z
 SUMMARY:Q4 Labcorp Earnings Conference Call
@@ -207,8 +223,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:25f0d9b4f43f1a49b597@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260219T213000Z
 DTEND:20260219T223000Z
 SUMMARY:Q4 Guardant Health Earnings Conference Call
@@ -232,8 +248,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:63a452c8198fabcf3a77@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260219T220000Z
 DTEND:20260219T230000Z
 SUMMARY:Q4 GRAIL Earnings Conference Call
@@ -254,27 +270,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1fc24d54278e8b0b04dd@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260223T133000Z
 DTEND:20260223T143000Z
 SUMMARY:Q4 GeneDx Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/pxib5vfg
 URL:https://edge.media-server.com/mmc/p/pxib5vfg
-DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2025\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/pxib5vfg\nOfficial earnings-call 
- source: https://ir.genedx.com/events/event-details/genedx-fourth-quarter-
- 2025-earnings-conference-call
+DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $121.0 million\,
+  with exome and genome test revenue up 32% year over year.\n- Exome and g
+ enome testing volume grew 34% year over year.\n- Adjusted gross margin wa
+ s 71% and adjusted net income was $4.4 million.\n- GeneDx reaffirmed 2026
+  revenue guidance of $540-$555 million with 33%-35% exome and genome grow
+ th.\n\nOfficial financial results: https://ir.genedx.com/news-releases/ne
+ ws-release-details/inserting-and-replacing-genedx-reports-fourth-quarter-
+ and-full/\n\nFiscal year: 2025\nEarnings call/webcast: https://edge.media
+ -server.com/mmc/p/pxib5vfg\nOfficial earnings-call source: https://ir.gen
+ edx.com/events/event-details/genedx-fourth-quarter-2025-earnings-conferen
+ ce-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e91471f7f68e7db6047a@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260223T213000Z
 DTEND:20260223T223000Z
 SUMMARY:Q4 Myriad Earnings Conference Call
@@ -294,26 +314,33 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:50bc2b8e1c16307137b9@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260224T213000Z
 DTEND:20260224T223000Z
 SUMMARY:Q4 Tempus AI Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/c83akphq
 URL:https://edge.media-server.com/mmc/p/c83akphq
-DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2025\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/c83akphq\nOfficial earnings-call 
- source: https://investors.tempus.com/news-events/investor-events
+DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $367.2 million\,
+  up 83% year over year and up 33.5% organically excluding Ambry.\n- Diagn
+ ostics revenue was $266.9 million\, up 121.6%\; oncology testing volume g
+ rew 29% and hereditary testing volume grew 23%.\n- MRD volume reached app
+ roximately 4\,700 tests\, up 56% sequentially\; Data and Applications rev
+ enue was $100.4 million\, up 25.1%.\n- GAAP net loss was $54.2 million an
+ d adjusted EBITDA was positive $12.9 million.\n- Initial 2026 guidance ca
+ lled for approximately $1.59 billion of revenue and approximately $65 mil
+ lion of adjusted EBITDA.\n\nOfficial financial results: https://investors
+ .tempus.com/news-releases/news-release-details/tempus-reports-fourth-quar
+ ter-and-full-year-2025-results\n\nFiscal year: 2025\nEarnings call/webcas
+ t: https://edge.media-server.com/mmc/p/c83akphq\nOfficial earnings-call s
+ ource: https://investors.tempus.com/news-events/investor-events
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b1a6bd2e79842a8eec57@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260225T213000Z
 DTEND:20260225T223000Z
 SUMMARY:Q4 Veracyte Earnings Conference Call
@@ -334,8 +361,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7003b8c77dcefe566f6b@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260226T213000Z
 DTEND:20260226T223000Z
 SUMMARY:Q4 Caris Earnings Conference Call
@@ -357,8 +384,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6997b3f9c8bb0d92f68f@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260226T213000Z
 DTEND:20260226T223000Z
 SUMMARY:Q4 Natera Earnings Conference Call
@@ -381,8 +408,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:39cbc8d934b19f25e9de@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260226T220000Z
 DTEND:20260226T230000Z
 SUMMARY:Q4 Personalis Earnings Conference Call
@@ -406,8 +433,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:921ba3c7a6d6dcf53ca6@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260302T104500Z
 DTEND:20260302T114500Z
 SUMMARY:FY Oxford Nanopore Technologies Financial Results Presentation
@@ -431,45 +458,56 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1f13dc1d0e4b60fc308@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260303T130000Z
 DTEND:20260303T140000Z
 SUMMARY:Q4 SOPHiA GENETICS Earnings Conference Call
 LOCATION:https://app.webinar.net/aWQ2KxPKmlr
 URL:https://app.webinar.net/aWQ2KxPKmlr
-DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2025\nEarnings call/webca
- st: https://app.webinar.net/aWQ2KxPKmlr\nOfficial earnings-call source: h
- ttps://ir.sophiagenetics.com/events?item=31
+DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $21.7 million\, 
+ up 22% year over year.\n- Reported gross margin was 67.7% and adjusted gr
+ oss margin was 73.9%.\n- IFRS net loss was $19.2 million and adjusted EBI
+ TDA loss was $9.9 million.\n- More than 105\,000 analyses were performed 
+ in the quarter\, with U.S. analysis volume up 50% year over year.\n- 2026
+  guidance called for $92-$94 million of revenue and an adjusted EBITDA lo
+ ss of $29-$32 million.\n\nOfficial financial results: https://ir.sophiage
+ netics.com/2026-03-03-SOPHiA-GENETICS-Reports-Fourth-Quarter-and-Full-Yea
+ r-2025-Results\n\nFiscal year: 2025\nEarnings call/webcast: https://app.w
+ ebinar.net/aWQ2KxPKmlr\nOfficial earnings-call source: https://ir.sophiag
+ enetics.com/events?item=31
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0e6f1a4c99d74fc5aa18@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260304T213000Z
 DTEND:20260304T223000Z
 SUMMARY:Q4 BillionToOne Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/cs2bxrf2
 URL:https://edge.media-server.com/mmc/p/cs2bxrf2
-DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2025\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/cs2bxrf2\nOfficial earnings-call 
- source: https://investors.billiontoone.com/events/event-details/billionto
- one-4q25-earnings-call
+DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $96.1 million\, 
+ up 113% year over year\; prenatal revenue was $86.1 million\, up 99%\, an
+ d oncology revenue was $9.1 million\, more than eightfold higher.\n- Gros
+ s margin was 71%\; operating income was $10.3 million\, representing an 1
+ 1% operating margin.\n- Net income available to common shareholders was $
+ 4.4 million\, or $0.11 per diluted share.\n- Full-year 2025 revenue was $
+ 305.1 million\, up 100%\; 2026 revenue guidance was raised to $430-$445 m
+ illion with positive GAAP operating income expected.\n\nOfficial financia
+ l results: https://investors.billiontoone.com/news-releases/news-release-
+ details/billiontoone-reports-fourth-quarter-and-full-year-2025-results\n\
+ nFiscal year: 2025\nEarnings call/webcast: https://edge.media-server.com/
+ mmc/p/cs2bxrf2\nOfficial earnings-call source: https://investors.billiont
+ oone.com/events/event-details/billiontoone-4q25-earnings-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:70fc5f88d6208b731a0a@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260421T123000Z
 DTEND:20260421T133000Z
 SUMMARY:Q1 Quest Earnings Conference Call
@@ -494,28 +532,33 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:fd71757de2774f1f061c@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260423T123000Z
 DTEND:20260423T133000Z
 SUMMARY:Q1 Thermo Fisher Scientific Earnings Conference Call
 LOCATION:https://events.q4inc.com/attendee/571753804
 URL:https://events.q4inc.com/attendee/571753804
-DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://events.q4inc.com/attendee/571753804\nOfficial earnings-call s
- ource: https://ir.thermofisher.com/investors/news-events/news/news-detail
- s/2026/Thermo-Fisher-Scientific-to-Hold-Earnings-Conference-Call-on-Thurs
- day-April-23-2026/default.aspx
+DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $11.01 billion\,
+  up 6% year over year\, with 1% organic revenue growth.\n- GAAP diluted E
+ PS was $4.43\, up 11%\; adjusted EPS was $5.44\, up 6%.\n- Thermo Fisher 
+ highlighted new platforms including the Glacios 3 Cryo-TEM and TSQ Certis
+  mass spectrometer and completed the Clario acquisition.\n- Management sa
+ id it remained positioned for a strong 2026 and discussed updated expecta
+ tions on the earnings call.\n\nOfficial financial results: https://ir.the
+ rmofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-
+ Scientific-Reports-First-Quarter-2026-Results/default.aspx\n\nFiscal year
+ : 2026\nEarnings call/webcast: https://events.q4inc.com/attendee/57175380
+ 4\nOfficial earnings-call source: https://ir.thermofisher.com/investors/n
+ ews-events/news/news-details/2026/Thermo-Fisher-Scientific-to-Hold-Earnin
+ gs-Conference-Call-on-Thursday-April-23-2026/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2b819821545f5c740c64@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260428T203000Z
 DTEND:20260428T213000Z
 SUMMARY:Q1 NeoGenomics Earnings Conference Call
@@ -537,8 +580,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:73453df7d568625c8d00@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260430T130000Z
 DTEND:20260430T140000Z
 SUMMARY:Q1 Labcorp Earnings Conference Call
@@ -559,8 +602,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:be5be2546f97982fe076@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260430T203000Z
 DTEND:20260430T213000Z
 SUMMARY:Q1 Illumina Earnings Conference Call
@@ -581,101 +624,122 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b2feb06ee1d610a5aa4d@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260504T120000Z
 DTEND:20260504T130000Z
 SUMMARY:Q2 Twist Bioscience Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/epdbxrqp
 URL:https://edge.media-server.com/mmc/p/epdbxrqp
-DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/epdbxrqp\nOfficial earnings-call 
- source: https://investors.twistbioscience.com/events/event-details/fiscal
- -2026-second-quarter-financial-results-conference-call/
+DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $110.7 million a
+ nd gross margin was 51.6%.\n- DNA Synthesis and Protein Solutions revenue
+  was $53.3 million\, up 28%\, with approximately 300\,000 genes shipped.\
+ n- NGS Applications revenue was $57.4 million\, up 12%.\n- Adjusted EBITD
+ A loss was $13.3 million\; full-year revenue guidance was raised to $442-
+ $447 million.\n\nOfficial financial results: https://investors.twistbiosc
+ ience.com/static-files/5e2280ff-ff65-4d76-a820-d8775931a606\n\nFiscal yea
+ r: 2026\nEarnings call/webcast: https://edge.media-server.com/mmc/p/epdbx
+ rqp\nOfficial earnings-call source: https://investors.twistbioscience.com
+ /events/event-details/fiscal-2026-second-quarter-financial-results-confer
+ ence-call/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7706d78525799c1ee0f1@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260504T203000Z
 DTEND:20260504T213000Z
 SUMMARY:Q1 GeneDx Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/qq94nz28/
 URL:https://edge.media-server.com/mmc/p/qq94nz28/
-DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/qq94nz28/\nOfficial earnings-call
-  source: https://ir.genedx.com/events/event-details/genedx-first-quarter-
- 2026-earnings-conference-call
+DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $102.3 million\,
+  with exome and genome revenue up 27% year over year.\n- Exome and genome
+  testing volume grew 34% year over year.\n- Adjusted gross margin was 69%
+  and adjusted net loss was $8.2 million.\n- GeneDx updated 2026 revenue g
+ uidance to $475-$490 million with exome and genome volume growth of at le
+ ast 30%.\n\nOfficial financial results: https://ir.genedx.com/news-releas
+ es/news-release-details/genedx-reports-first-quarter-2026-financial-resul
+ ts-and-updates\n\nFiscal year: 2026\nEarnings call/webcast: https://edge.
+ media-server.com/mmc/p/qq94nz28/\nOfficial earnings-call source: https://
+ ir.genedx.com/events/event-details/genedx-first-quarter-2026-earnings-con
+ ference-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c1f8f103dbd427e5822d@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260505T120000Z
 DTEND:20260505T130000Z
 SUMMARY:Q1 SOPHiA GENETICS Earnings Conference Call
 LOCATION:https://app.webinar.net/KP8RW4rM1B5
 URL:https://app.webinar.net/KP8RW4rM1B5
-DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://app.webinar.net/KP8RW4rM1B5\nOfficial earnings-call source: h
- ttps://ir.sophiagenetics.com/events?item=33
+DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $21.7 million\, 
+ up 22% year over year.\n- Reported gross margin was approximately 68% and
+  adjusted gross margin was 75.4%.\n- IFRS net loss was $19.3 million and 
+ adjusted EBITDA loss was $9.2 million.\n- SOPHiA processed a record 108\,
+ 000 analyses\, up 16%\, across 537 core genomics customers.\n- The compan
+ y maintained 2026 revenue guidance of $92-$94 million and adjusted EBITDA
+  loss guidance of $29-$32 million.\n\nOfficial financial results: https:/
+ /ir.sophiagenetics.com/2026-05-05-SOPHiA-GENETICS-Reports-First-Quarter-2
+ 026-Results\n\nFiscal year: 2026\nEarnings call/webcast: https://app.webi
+ nar.net/KP8RW4rM1B5\nOfficial earnings-call source: https://ir.sophiagene
+ tics.com/events?item=33
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:335d0b0bc1fd825979bd@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260505T203000Z
 DTEND:20260505T213000Z
 SUMMARY:Q1 Tempus AI Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/rv7jv7ti
 URL:https://edge.media-server.com/mmc/p/rv7jv7ti
-DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/rv7jv7ti\nOfficial earnings-call 
- source: https://investors.tempus.com/events/event-details/tempus-first-qu
- arter-2026-earnings-conference-call
+DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $348.1 million\,
+  up 36.1% year over year.\n- Diagnostics revenue was $261.1 million\, up 
+ 34.7%\, with oncology testing volume up 28%.\n- MRD volume reached approx
+ imately 6\,500 tests\; Data and Applications revenue was $87.0 million\, 
+ up 40.5%.\n- Tempus raised full-year revenue guidance to $1.59-$1.60 bill
+ ion while maintaining approximately $65 million of adjusted EBITDA guidan
+ ce.\n\nOfficial financial results: https://investors.tempus.com/news-rele
+ ases/news-release-details/tempus-reports-first-quarter-2026-results\n\nFi
+ scal year: 2026\nEarnings call/webcast: https://edge.media-server.com/mmc
+ /p/rv7jv7ti\nOfficial earnings-call source: https://investors.tempus.com/
+ events/event-details/tempus-first-quarter-2026-earnings-conference-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4aea218b9de46747ce67@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260505T203000Z
 DTEND:20260505T213000Z
 SUMMARY:Q1 Adaptive Biotechnologies Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/3p8mdd5y
 URL:https://edge.media-server.com/mmc/p/3p8mdd5y
-DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/3p8mdd5y\nOfficial earnings-call 
- source: https://investors.adaptivebiotech.com/news-events/events
+DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $70.9 million\, 
+ up 35% year over year\; MRD revenue was $67.1 million\, up 53%.\n- clonoS
+ EQ test volume was 32\,595\, up 41% year over year.\n- GAAP net loss was 
+ $20.0 million and adjusted EBITDA loss was $2.5 million.\n- Adaptive rais
+ ed full-year MRD revenue guidance to $260-$270 million.\n\nOfficial finan
+ cial results: https://investors.adaptivebiotech.com/news-releases/news-re
+ lease-details/adaptive-biotechnologies-reports-first-quarter-2026-financi
+ al\n\nFiscal year: 2026\nEarnings call/webcast: https://edge.media-server
+ .com/mmc/p/3p8mdd5y\nOfficial earnings-call source: https://investors.ada
+ ptivebiotech.com/news-events/events
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c7f5520a87d33ac1be9a@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260505T203000Z
 DTEND:20260505T213000Z
 SUMMARY:Q1 Veracyte Earnings Conference Call
@@ -695,8 +759,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3581db1c18b6f87e310d@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260505T203000Z
 DTEND:20260505T213000Z
 SUMMARY:Q1 Myriad Earnings Conference Call
@@ -717,8 +781,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4ee5df2ea1efc71ef291@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260505T203000Z
 DTEND:20260505T213000Z
 SUMMARY:Q1 GRAIL Earnings Conference Call
@@ -740,27 +804,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1a79e3c894fabdcc5a7@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260506T203000Z
 DTEND:20260506T213000Z
 SUMMARY:Q1 BillionToOne Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/ekg564qb
 URL:https://edge.media-server.com/mmc/p/ekg564qb
-DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/ekg564qb\nOfficial earnings-call 
- source: https://investors.billiontoone.com/events/event-details/billionto
- one-1q26-earnings-call
+DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $108.4 million\,
+  up 84% year over year.\n- Prenatal revenue was $96.5 million\, up 72%\; 
+ oncology revenue was $10.7 million versus $2.2 million a year earlier.\n-
+  Gross margin was 73%.\n- BillionToOne raised 2026 revenue guidance to $4
+ 50-$465 million and said it expected to maintain profitability while cont
+ inuing significant investment.\n\nOfficial financial results: https://inv
+ estors.billiontoone.com/news-releases/news-release-details/billiontoone-r
+ eports-first-quarter-2026-results-and-raises-2026\n\nFiscal year: 2026\nE
+ arnings call/webcast: https://edge.media-server.com/mmc/p/ekg564qb\nOffic
+ ial earnings-call source: https://investors.billiontoone.com/events/event
+ -details/billiontoone-1q26-earnings-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:35964a0c2d2a85066f06@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260507T203000Z
 DTEND:20260507T213000Z
 SUMMARY:Q1 PacBio Earnings Conference Call
@@ -782,27 +850,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:95673be50e35bcf643c9@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260507T203000Z
 DTEND:20260507T213000Z
 SUMMARY:Q1 10x Genomics Earnings Conference Call
 LOCATION:https://events.q4inc.com/attendee/667810290
 URL:https://events.q4inc.com/attendee/667810290
-DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://events.q4inc.com/attendee/667810290\nOfficial earnings-call s
- ource: https://investors.10xgenomics.com/events-and-presentations/default
- .aspx
+DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $150.8 million\;
+  excluding prior-year one-time settlement revenue\, underlying revenue gr
+ ew approximately 9%.\n- Consumables revenue grew 13%\, including 6% growt
+ h in single-cell and 31% growth in spatial consumables\; instrument reven
+ ue declined 24%.\n- Gross margin was 70% and cash and cash equivalents we
+ re approximately $540 million.\n- 10x maintained 2026 revenue guidance of
+  $600-$625 million.\n\nOfficial financial results: https://investors.10xg
+ enomics.com/financials/default.aspx\n\nFiscal year: 2026\nEarnings call/w
+ ebcast: https://events.q4inc.com/attendee/667810290\nOfficial earnings-ca
+ ll source: https://investors.10xgenomics.com/events-and-presentations/def
+ ault.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6c1d4f3d543a342128ef@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260507T203000Z
 DTEND:20260507T213000Z
 SUMMARY:Q1 Caris Earnings Conference Call
@@ -824,8 +896,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ea66abf68fa3784db52b@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260507T203000Z
 DTEND:20260507T213000Z
 SUMMARY:Q1 Guardant Health Earnings Conference Call
@@ -849,8 +921,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d87cddaa47e9d0403293@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260507T203000Z
 DTEND:20260507T213000Z
 SUMMARY:Q1 Natera Earnings Conference Call
@@ -870,8 +942,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1c96afcfca941fc40305@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260507T210000Z
 DTEND:20260507T220000Z
 SUMMARY:Q1 Personalis Earnings Conference Call
@@ -895,27 +967,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e805882959d30b95d246@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260723T123000Z
 DTEND:20260723T133000Z
 SUMMARY:Q2 Thermo Fisher Scientific Earnings Conference Call
 LOCATION:https://events.q4inc.com/attendee/835035800
 URL:https://events.q4inc.com/attendee/835035800
-DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://events.q4inc.com/attendee/835035800\nOfficial earnings-call s
- ource: https://ir.thermofisher.com/investors/news-events/events/event-det
- ails/default.aspx
+DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $11.99 billion\,
+  up 10% year over year\, including 5% organic growth.\n- GAAP diluted EPS
+  was $4.68\, up 9%\; adjusted EPS was $6.03\, up 13%.\n- GAAP operating i
+ ncome was $2.09 billion and GAAP operating margin was 17.4%.\n- Managemen
+ t said customer activity across end markets continued to strengthen and p
+ rovided updated 2026 guidance on the call.\n\nOfficial financial results:
+  https://ir.thermofisher.com/investors/news-events/news/news-details/2026
+ /Thermo-Fisher-Scientific-Reports-Second-Quarter-2026-Results/\n\nFiscal 
+ year: 2026\nEarnings call/webcast: https://events.q4inc.com/attendee/8350
+ 35800\nOfficial earnings-call source: https://ir.thermofisher.com/investo
+ rs/news-events/events/event-details/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:27b72a073fb73ab06e67@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260723T123000Z
 DTEND:20260723T133000Z
 SUMMARY:Q2 Quest Earnings Conference Call
@@ -936,8 +1012,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4be5bfca02b33a2fd9ac@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260728T203000Z
 DTEND:20260728T213000Z
 SUMMARY:Q2 NeoGenomics Earnings Conference Call
@@ -960,27 +1036,32 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4e6b32db8901e8b58422@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260729T203000Z
 DTEND:20260729T213000Z
 SUMMARY:Q2 Adaptive Biotechnologies Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/ra53n5gi
 URL:https://edge.media-server.com/mmc/p/ra53n5gi
-DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/ra53n5gi\nOfficial earnings-call 
- source: https://investors.adaptivebiotech.com/events/event-details/adapti
- ve-biotechnologies-second-quarter-financial-results-6
+DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $71.6 million\, 
+ up 22% year over year\; MRD revenue was $66.2 million\, up 33%.\n- clonoS
+ EQ test volume was 36\,111\, up 43% year over year.\n- GAAP net loss was 
+ $39.9 million\; adjusted EBITDA loss was $0.7 million.\n- Adaptive raised
+  2026 MRD revenue guidance to $268-$278 million and narrowed operating-ex
+ pense guidance to $350-$355 million.\n\nOfficial financial results: https
+ ://investors.adaptivebiotech.com/news-releases/news-release-details/adapt
+ ive-biotechnologies-reports-second-quarter-2026-financial\n\nFiscal year:
+  2026\nEarnings call/webcast: https://edge.media-server.com/mmc/p/ra53n5g
+ i\nOfficial earnings-call source: https://investors.adaptivebiotech.com/e
+ vents/event-details/adaptive-biotechnologies-second-quarter-financial-res
+ ults-6
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:50a59efe4ca22e16a9f4@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260730T130000Z
 DTEND:20260730T140000Z
 SUMMARY:Q2 Labcorp Earnings Conference Call
@@ -1001,8 +1082,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a5ad8d184b96899efb65@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260730T203000Z
 DTEND:20260730T213000Z
 SUMMARY:Q2 Illumina Earnings Conference Call
@@ -1024,26 +1105,32 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:eb74d92150fa7b5e0e93@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260730T203000Z
 DTEND:20260730T213000Z
 SUMMARY:Q2 Tempus AI Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/q32qrfst
 URL:https://edge.media-server.com/mmc/p/q32qrfst
-DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/q32qrfst\nOfficial earnings-call 
- source: https://investors.tempus.com/news-events/investor-events
+DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $382.5 million\,
+  up 22% year over year.\n- Diagnostics revenue was $289.3 million\, up 20
+ %\, with oncology testing volume up 31%\; Data and Applications revenue w
+ as $93.2 million\, up 28%.\n- MRD volume reached 9\,000 tests\, up from 6
+ \,500 in Q1\; Insights revenue grew 36% year over year.\n- GAAP net incom
+ e was $5.6 million and adjusted EBITDA was $8.0 million.\n- Tempus increa
+ sed 2026 revenue guidance to $1.595-$1.605 billion and maintained approxi
+ mately $65 million of adjusted EBITDA guidance.\n\nOfficial financial res
+ ults: https://investors.tempus.com/news-releases/news-release-details/tem
+ pus-reports-second-quarter-2026-results\n\nFiscal year: 2026\nEarnings ca
+ ll/webcast: https://edge.media-server.com/mmc/p/q32qrfst\nOfficial earnin
+ gs-call source: https://investors.tempus.com/news-events/investor-events
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfbc0adf44c711baf34@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260730T203000Z
 DTEND:20260730T213000Z
 SUMMARY:Q2 Veracyte Earnings Conference Call
@@ -1064,8 +1151,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0b1b340bdcda178a883a@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260730T203000Z
 DTEND:20260730T213000Z
 SUMMARY:Q2 Guardant Health Earnings Conference Call
@@ -1089,8 +1176,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:851dd0e8de889319383e@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260730T203000Z
 DTEND:20260730T213000Z
 SUMMARY:Q2 Myriad Earnings Conference Call
@@ -1112,27 +1199,32 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:aee4176fa4aee1fde1d5@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260803T120000Z
 DTEND:20260803T130000Z
 SUMMARY:Q3 Twist Bioscience Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/7qb7ngqb/
 URL:https://edge.media-server.com/mmc/p/7qb7ngqb/
-DESCRIPTION:FINANCIAL SUMMARY - Q3 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/7qb7ngqb/\nOfficial earnings-call
-  source: https://investors.twistbioscience.com/events-and-presentations/e
- vents/
+DESCRIPTION:FINANCIAL SUMMARY - Q3 2026\n\n- Revenue was $118.4 million\,
+  up 23% year over year\; gross margin was 52.8%.\n- DNA Synthesis and Pro
+ tein Solutions revenue was $56.6 million\, up 39%\; NGS Applications reve
+ nue was $61.8 million\, up 12%.\n- Twist served approximately 2\,650 cust
+ omers and shipped approximately 369\,000 genes.\n- GAAP net loss was $35.
+ 1 million and adjusted EBITDA loss was $11.3 million.\n- Full-year revenu
+ e guidance was raised to $456-$457 million\, with Q4 revenue of $123-$124
+  million and adjusted EBITDA breakeven targeted.\n\nOfficial financial re
+ sults: https://investors.twistbioscience.com/static-files/09275eee-f3b8-4
+ 5a6-b39c-4201339dbc8f\n\nFiscal year: 2026\nEarnings call/webcast: https:
+ //edge.media-server.com/mmc/p/7qb7ngqb/\nOfficial earnings-call source: h
+ ttps://investors.twistbioscience.com/events-and-presentations/events/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:63dcb2bcf04399f0788d@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260803T203000Z
 DTEND:20260803T213000Z
 SUMMARY:Q2 GeneDx Earnings Conference Call
@@ -1150,8 +1242,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a83269dabbb82d821f@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260804T120000Z
 DTEND:20260804T130000Z
 SUMMARY:Q2 SOPHiA GENETICS Earnings Conference Call
@@ -1168,8 +1260,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5bd8a22894fc9571bd0e@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:Q2 PacBio Earnings Conference Call
@@ -1187,27 +1279,32 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bfe0c870ca9362761ab7@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:Q2 BillionToOne Earnings Conference Call
 LOCATION:https://edge.media-server.com/mmc/p/zit5yupy
 URL:https://edge.media-server.com/mmc/p/zit5yupy
-DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://edge.media-server.com/mmc/p/zit5yupy\nOfficial earnings-call 
- source: https://investors.billiontoone.com/events/event-details/billionto
- one-2q26-earnings-call
+DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $109.4 million\,
+  up 64% year over year\, on approximately 196\,000 tests delivered\, up 3
+ 5%.\n- Prenatal revenue was $95.8 million\, up 56%\; oncology revenue was
+  $13.7 million\, up 176%.\n- Gross margin was 70.5%\; GAAP operating prof
+ it was $5.5 million and adjusted EBITDA was $16.1 million.\n- Cash and ca
+ sh equivalents were $548.6 million.\n- BillionToOne reiterated 2026 reven
+ ue guidance of $450-$465 million and an expectation of GAAP profitability
+ .\n\nOfficial financial results: https://investors.billiontoone.com/stati
+ c-files/2f9443cf-74dd-419c-b487-161224a7f0b6\n\nFiscal year: 2026\nEarnin
+ gs call/webcast: https://edge.media-server.com/mmc/p/zit5yupy\nOfficial e
+ arnings-call source: https://investors.billiontoone.com/events/event-deta
+ ils/billiontoone-2q26-earnings-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:167c1d15f2e936ec13ff@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:Q2 Caris Earnings Conference Call
@@ -1229,8 +1326,8 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:32c698ff9c75db526c82@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:Q2 GRAIL Earnings Conference Call
@@ -1247,27 +1344,31 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f642ca79ef1751a58cd5@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260806T203000Z
 DTEND:20260806T213000Z
 SUMMARY:Q2 10x Genomics Earnings Conference Call
 LOCATION:https://events.q4inc.com/attendee/411159416
 URL:https://events.q4inc.com/attendee/411159416
-DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\nOfficial financial results hav
- e not yet been verified on the company's investor-relations site.\nThis e
- vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
- st: https://events.q4inc.com/attendee/411159416\nOfficial earnings-call s
- ource: https://investors.10xgenomics.com/events-and-presentations/default
- .aspx
+DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $151.0 million\;
+  excluding prior-year settlement revenue\, adjusted comparison revenue wa
+ s $149.4 million\, up approximately 3%.\n- Consumables revenue grew 7%\, 
+ with single-cell consumables up 3% and spatial consumables up 16%\; instr
+ ument revenue declined 47%.\n- Gross margin was 74% and cash and cash equ
+ ivalents were approximately $552 million.\n- 10x raised 2026 revenue guid
+ ance to $610-$630 million and continued its Atera rollout.\n\nOfficial fi
+ nancial results: https://investors.10xgenomics.com/financials/default.asp
+ x\n\nFiscal year: 2026\nEarnings call/webcast: https://events.q4inc.com/a
+ ttendee/411159416\nOfficial earnings-call source: https://investors.10xge
+ nomics.com/events-and-presentations/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c4bb138931ef272d7591@diagnostics-earnings-calendar
-DTSTAMP:20260816T152817Z
-LAST-MODIFIED:20260816T152817Z
+DTSTAMP:20260816T152915Z
+LAST-MODIFIED:20260816T152915Z
 DTSTART:20260806T203000Z
 DTEND:20260806T213000Z
 SUMMARY:Q2 Natera Earnings Conference Call
