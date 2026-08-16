@@ -1,0 +1,359 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scherel88//Diagnostics Earnings Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Diagnostics Earnings Calls
+X-WR-CALDESC:Earnings conference calls for selected diagnostics and precision oncology companies.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:0a95dd546f892a0f2dbf@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260210T133000Z
+DTEND:20260210T143000Z
+SUMMARY:Q4 Quest Earnings Conference Call
+LOCATION:https://ir.questdiagnostics.com/events-and-presentations/default.aspx
+URL:https://ir.questdiagnostics.com/events-and-presentations/default.aspx
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://ir.questdiagnostics.com/press-releases/press-release-details/2026/Quest-Diagnostics-to-Release-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-February-10-2026/default.aspx
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:40823c0cfe05af80fe01@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260217T133000Z
+DTEND:20260217T143000Z
+SUMMARY:Q4 NeoGenomics Earnings Conference Call
+LOCATION:https://www.webcaster5.com/Webcast/Page/1219/53555
+URL:https://www.webcaster5.com/Webcast/Page/1219/53555
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://ir.neogenomics.com/news-events/ir-calendar/detail/20260217-fourth-quarter-2025-financial-results-conference-call
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0dc7ec5709d3b06d172b@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260217T140000Z
+DTEND:20260217T150000Z
+SUMMARY:Q4 Labcorp Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/nygbguvd
+URL:https://edge.media-server.com/mmc/p/nygbguvd
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://ir.labcorp.com/events/event-details/q4-and-full-year-2025-labcorp-holdings-earnings-conference-call
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:25f0d9b4f43f1a49b597@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260219T213000Z
+DTEND:20260219T223000Z
+SUMMARY:Q4 Guardant Health Earnings Conference Call
+LOCATION:https://investors.guardanthealth.com/financials/quarterly-results/default.aspx
+URL:https://investors.guardanthealth.com/financials/quarterly-results/default.aspx
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://investors.guardanthealth.com/financials/quarterly-results/default.aspx
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:63a452c8198fabcf3a77@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260219T220000Z
+DTEND:20260219T230000Z
+SUMMARY:Q4 GRAIL Earnings Conference Call
+LOCATION:https://grail-q4-financial-results-2025.open-exchange.net/
+URL:https://grail-q4-financial-results-2025.open-exchange.net/
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://investors.grail.com/news-events/events
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e91471f7f68e7db6047a@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260223T213000Z
+DTEND:20260223T223000Z
+SUMMARY:Q4 Myriad Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/5d5uyqxn
+URL:https://edge.media-server.com/mmc/p/5d5uyqxn
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://investor.myriad.com/events-and-presentations/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1a6bd2e79842a8eec57@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260225T213000Z
+DTEND:20260225T223000Z
+SUMMARY:Q4 Veracyte Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/motsphxv/
+URL:https://edge.media-server.com/mmc/p/motsphxv/
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://investor.veracyte.com/events-presentations
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7003b8c77dcefe566f6b@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260226T213000Z
+DTEND:20260226T223000Z
+SUMMARY:Q4 Caris Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/49czfgs4
+URL:https://edge.media-server.com/mmc/p/49czfgs4
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://investor.carislifesciences.com/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6997b3f9c8bb0d92f68f@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260226T213000Z
+DTEND:20260226T223000Z
+SUMMARY:Q4 Natera Earnings Conference Call
+LOCATION:https://investor.natera.com/events-and-presentations/events/default.aspx
+URL:https://investor.natera.com/events-and-presentations/events/default.aspx
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://investor.natera.com/events-and-presentations/events/default.aspx
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:39cbc8d934b19f25e9de@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260226T220000Z
+DTEND:20260226T230000Z
+SUMMARY:Q4 Personalis Earnings Conference Call
+LOCATION:https://viavid.webcasts.com/starthere.jsp?ei=1747465&tp_key=1f8d59cce4
+URL:https://viavid.webcasts.com/starthere.jsp?ei=1747465&tp_key=1f8d59cce4
+DESCRIPTION:Fiscal year: 2025\nOfficial source: https://investors.personalis.com/news-events/events-and-presentations
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:70fc5f88d6208b731a0a@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260421T123000Z
+DTEND:20260421T133000Z
+SUMMARY:Q1 Quest Earnings Conference Call
+LOCATION:https://ir.questdiagnostics.com/events-and-presentations/default.aspx
+URL:https://ir.questdiagnostics.com/events-and-presentations/default.aspx
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://ir.questdiagnostics.com/press-releases/press-release-details/2026/Quest-Diagnostics-to-Release-First-Quarter-Financial-Results-on-April-21-2026/default.aspx
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b819821545f5c740c64@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260428T203000Z
+DTEND:20260428T213000Z
+SUMMARY:Q1 NeoGenomics Earnings Conference Call
+LOCATION:https://www.webcaster5.com/Webcast/Page/1219/53771
+URL:https://www.webcaster5.com/Webcast/Page/1219/53771
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://ir.neogenomics.com/news-events/ir-calendar/detail/20260428-first-quarter-2026-financial-results-conference-call
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:73453df7d568625c8d00@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260430T130000Z
+DTEND:20260430T140000Z
+SUMMARY:Q1 Labcorp Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/6ha4czzu
+URL:https://edge.media-server.com/mmc/p/6ha4czzu
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://ir.labcorp.com/events/event-details/q1-2026-labcorp-holdings-earnings-conference-call
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee5df2ea1efc71ef291@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260505T203000Z
+DTEND:20260505T213000Z
+SUMMARY:Q1 GRAIL Earnings Conference Call
+LOCATION:https://grail-q1-financial-results-2026.open-exchange.net/
+URL:https://grail-q1-financial-results-2026.open-exchange.net/
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investors.grail.com/news-events/events
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3581db1c18b6f87e310d@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260505T203000Z
+DTEND:20260505T213000Z
+SUMMARY:Q1 Myriad Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/4mseffvy
+URL:https://edge.media-server.com/mmc/p/4mseffvy
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investor.myriad.com/events-and-presentations/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f5520a87d33ac1be9a@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260505T203000Z
+DTEND:20260505T213000Z
+SUMMARY:Q1 Veracyte Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/293q6w6a
+URL:https://edge.media-server.com/mmc/p/293q6w6a
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investor.veracyte.com/events-presentations
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c1d4f3d543a342128ef@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260507T203000Z
+DTEND:20260507T213000Z
+SUMMARY:Q1 Caris Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/6iwr2xf8/
+URL:https://edge.media-server.com/mmc/p/6iwr2xf8/
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investor.carislifesciences.com/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea66abf68fa3784db52b@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260507T203000Z
+DTEND:20260507T213000Z
+SUMMARY:Q1 Guardant Health Earnings Conference Call
+LOCATION:https://investors.guardanthealth.com/financials/quarterly-results/default.aspx
+URL:https://investors.guardanthealth.com/financials/quarterly-results/default.aspx
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investors.guardanthealth.com/financials/quarterly-results/default.aspx
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d87cddaa47e9d0403293@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260507T203000Z
+DTEND:20260507T213000Z
+SUMMARY:Q1 Natera Earnings Conference Call
+LOCATION:https://events.q4inc.com/attendee/443070230
+URL:https://events.q4inc.com/attendee/443070230
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investor.natera.com/events-and-presentations/events/default.aspx
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c96afcfca941fc40305@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260507T210000Z
+DTEND:20260507T220000Z
+SUMMARY:Q1 Personalis Earnings Conference Call
+LOCATION:https://viavid.webcasts.com/starthere.jsp?ei=1757945&tp_key=c0bcc80cff
+URL:https://viavid.webcasts.com/starthere.jsp?ei=1757945&tp_key=c0bcc80cff
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investors.personalis.com/news-events/events-and-presentations
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:27b72a073fb73ab06e67@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260723T123000Z
+DTEND:20260723T133000Z
+SUMMARY:Q2 Quest Earnings Conference Call
+LOCATION:https://ir.questdiagnostics.com/
+URL:https://ir.questdiagnostics.com/
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://ir.questdiagnostics.com/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4be5bfca02b33a2fd9ac@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260728T203000Z
+DTEND:20260728T213000Z
+SUMMARY:Q2 NeoGenomics Earnings Conference Call
+LOCATION:https://www.webcaster5.com/Webcast/Page/1219/54220
+URL:https://www.webcaster5.com/Webcast/Page/1219/54220
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://ir.neogenomics.com/news-events/ir-calendar/detail/20260728-second-quarter-2026-financial-results-conference-call
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:50a59efe4ca22e16a9f4@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260730T130000Z
+DTEND:20260730T140000Z
+SUMMARY:Q2 Labcorp Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/22ts359e
+URL:https://edge.media-server.com/mmc/p/22ts359e
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://ir.labcorp.com/events/event-details/q2-2026-labcorp-holdings-earnings-conference-call
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b1b340bdcda178a883a@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260730T203000Z
+DTEND:20260730T213000Z
+SUMMARY:Q2 Guardant Health Earnings Conference Call
+LOCATION:https://investors.guardanthealth.com/overview/default.aspx
+URL:https://investors.guardanthealth.com/overview/default.aspx
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Report-Second-Quarter-2026-Financial-Results-on-July-30-2026/default.aspx
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfbc0adf44c711baf34@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260730T203000Z
+DTEND:20260730T213000Z
+SUMMARY:Q2 Veracyte Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/wwu2pyd7/
+URL:https://edge.media-server.com/mmc/p/wwu2pyd7/
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investor.veracyte.com/events-presentations
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:851dd0e8de889319383e@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260804T203000Z
+DTEND:20260804T213000Z
+SUMMARY:Q2 Myriad Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/koiev25j
+URL:https://edge.media-server.com/mmc/p/koiev25j
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investor.myriad.com/events-and-presentations/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:167c1d15f2e936ec13ff@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260805T203000Z
+DTEND:20260805T213000Z
+SUMMARY:Q2 Caris Earnings Conference Call
+LOCATION:https://edge.media-server.com/mmc/p/ff8xb4qs
+URL:https://edge.media-server.com/mmc/p/ff8xb4qs
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investor.carislifesciences.com/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:32c698ff9c75db526c82@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260805T203000Z
+DTEND:20260805T213000Z
+SUMMARY:Q2 GRAIL Earnings Conference Call
+LOCATION:https://grail-q2-financial-results-2026.open-exchange.net/
+URL:https://grail-q2-financial-results-2026.open-exchange.net/
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investors.grail.com/news-events/events
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4bb138931ef272d7591@diagnostics-earnings-calendar
+DTSTAMP:20260816T145500Z
+DTSTART:20260806T203000Z
+DTEND:20260806T213000Z
+SUMMARY:Q2 Natera Earnings Conference Call
+LOCATION:https://events.q4inc.com/attendee/786717759
+URL:https://events.q4inc.com/attendee/786717759
+DESCRIPTION:Fiscal year: 2026\nOfficial source: https://investor.natera.com/events-and-presentations/events/default.aspx
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
