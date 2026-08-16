@@ -5,7 +5,6 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-EVENTS_FILE = ROOT / "events.json"
 ICS_FILE = ROOT / "earnings.ics"
 RESULTS_DIR = ROOT / "results"
 
@@ -26,6 +25,19 @@ def event_title(event):
         return f"{label} {event['company']} Earnings Conference Call"
     event_type = event.get("event_type", "Financial Results Presentation")
     return f"{label} {event['company']} {event_type}"
+
+
+def load_events():
+    events = []
+    seen = set()
+    for path in sorted(ROOT.glob("events*.json")):
+        for item in json.loads(path.read_text(encoding="utf-8")):
+            key = record_key(item)
+            if key in seen:
+                continue
+            seen.add(key)
+            events.append(item)
+    return events
 
 
 def load_results():
@@ -106,7 +118,7 @@ def description(event, result):
 
 
 def main():
-    events = json.loads(EVENTS_FILE.read_text(encoding="utf-8"))
+    events = load_events()
     results = load_results()
     old_uids = existing_uids()
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
