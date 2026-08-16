@@ -3,16 +3,16 @@ VERSION:2.0
 PRODID:-//scherel88//Diagnostics Earnings Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Diagnostics Earnings Calls
-X-WR-CALDESC:Earnings conference calls for selected diagnostics and preci
- sion oncology companies.
+X-WR-CALNAME:Genomics & Diagnostics Earnings Calls
+X-WR-CALDESC:Financial-results calls and presentations for selected genom
+ ics, sequencing, diagnostics and precision-oncology companies.
 X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:0a95dd546f892a0f2dbf@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260210T133000Z
 DTEND:20260210T143000Z
 SUMMARY:Q4 Quest Earnings Conference Call
@@ -27,18 +27,18 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $2.81 billion\,
  cial results: https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diag
  nostics-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-Provi
  des-Guidance-for-Full-Year-2026-Increases-Quarterly-Dividend-7-5-to-0-86-
- Per-Share\n\nEarnings call/webcast: https://ir.questdiagnostics.com/event
- s-and-presentations/default.aspx\nOfficial earnings-call source: https://
- ir.questdiagnostics.com/press-releases/press-release-details/2026/Quest-D
- iagnostics-to-Release-Fourth-Quarter-and-Full-Year-2025-Financial-Results
- -on-February-10-2026/default.aspx
+ Per-Share\n\nFiscal year: 2025\nEarnings call/webcast: https://ir.questdi
+ agnostics.com/events-and-presentations/default.aspx\nOfficial earnings-ca
+ ll source: https://ir.questdiagnostics.com/press-releases/press-release-d
+ etails/2026/Quest-Diagnostics-to-Release-Fourth-Quarter-and-Full-Year-202
+ 5-Financial-Results-on-February-10-2026/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:40823c0cfe05af80fe01@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260217T133000Z
 DTEND:20260217T143000Z
 SUMMARY:Q4 NeoGenomics Earnings Conference Call
@@ -50,17 +50,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $190 million\, u
  up 13%.\n- Cash and cash equivalents were approximately $160 million at q
  uarter end.\n\nOfficial financial results: https://ir.neogenomics.com/new
  s-events/press-releases/detail/320/neogenomics-reports-fourth-quarter-and
- -full-year-2025-results\n\nEarnings call/webcast: https://www.webcaster5.
- com/Webcast/Page/1219/53555\nOfficial earnings-call source: https://ir.ne
- ogenomics.com/news-events/ir-calendar/detail/20260217-fourth-quarter-2025
- -financial-results-conference-call
+ -full-year-2025-results\n\nFiscal year: 2025\nEarnings call/webcast: http
+ s://www.webcaster5.com/Webcast/Page/1219/53555\nOfficial earnings-call so
+ urce: https://ir.neogenomics.com/news-events/ir-calendar/detail/20260217-
+ fourth-quarter-2025-financial-results-conference-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0dc7ec5709d3b06d172b@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260217T140000Z
 DTEND:20260217T150000Z
 SUMMARY:Q4 Labcorp Earnings Conference Call
@@ -72,16 +72,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $3.52 billion\,
  026 outlook: revenue of $14.61-$14.79 billion and adjusted EPS of $17.55-
  $18.25.\n\nOfficial financial results: https://ir.labcorp.com/news-releas
  es/news-release-details/labcorp-announces-2025-fourth-quarter-and-full-ye
- ar-results\n\nEarnings call/webcast: https://edge.media-server.com/mmc/p/
- nygbguvd\nOfficial earnings-call source: https://ir.labcorp.com/events/ev
- ent-details/q4-and-full-year-2025-labcorp-holdings-earnings-conference-call
+ ar-results\n\nFiscal year: 2025\nEarnings call/webcast: https://edge.medi
+ a-server.com/mmc/p/nygbguvd\nOfficial earnings-call source: https://ir.la
+ bcorp.com/events/event-details/q4-and-full-year-2025-labcorp-holdings-ear
+ nings-conference-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:25f0d9b4f43f1a49b597@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260219T213000Z
 DTEND:20260219T223000Z
 SUMMARY:Q4 Guardant Health Earnings Conference Call
@@ -96,17 +97,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $281.3 million\,
  ITDA loss was $64.9 million.\n- 2026 revenue guidance was $1.25-$1.28 bil
  lion\, including screening revenue of $162-$174 million.\n\nOfficial fina
  ncial results: https://investors.guardanthealth.com/financials/quarterly-
- results/default.aspx\n\nEarnings call/webcast: https://investors.guardant
- health.com/financials/quarterly-results/default.aspx\nOfficial earnings-c
- all source: https://investors.guardanthealth.com/financials/quarterly-res
- ults/default.aspx
+ results/default.aspx\n\nFiscal year: 2025\nEarnings call/webcast: https:/
+ /investors.guardanthealth.com/financials/quarterly-results/default.aspx\n
+ Official earnings-call source: https://investors.guardanthealth.com/finan
+ cials/quarterly-results/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:63a452c8198fabcf3a77@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260219T220000Z
 DTEND:20260219T230000Z
 SUMMARY:Q4 GRAIL Earnings Conference Call
@@ -119,16 +120,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $43.6 million\,
  nts and short-term marketable securities were approximately $904.4 millio
  n at year end.\n\nOfficial financial results: https://investors.grail.com
  /news-releases/news-release-details/grail-reports-fourth-quarter-and-full
- -year-2025-financial\n\nEarnings call/webcast: https://grail-q4-financial
- -results-2025.open-exchange.net/\nOfficial earnings-call source: https://
- investors.grail.com/news-events/events
+ -year-2025-financial\n\nFiscal year: 2025\nEarnings call/webcast: https:/
+ /grail-q4-financial-results-2025.open-exchange.net/\nOfficial earnings-ca
+ ll source: https://investors.grail.com/news-events/events
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:e91471f7f68e7db6047a@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260223T213000Z
 DTEND:20260223T223000Z
 SUMMARY:Q4 Myriad Earnings Conference Call
@@ -140,16 +141,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $209.8 million\,
  9 million\, or $0.08 per share\; adjusted EPS was $0.04 and adjusted EBIT
  DA was $14.3 million.\n- The company reiterated its full-year 2026 financ
  ial guidance.\n\nOfficial financial results: https://investor.myriad.com/
- news-releases/news-release-detail/26976/\n\nEarnings call/webcast: https:
- //edge.media-server.com/mmc/p/5d5uyqxn\nOfficial earnings-call source: ht
- tps://investor.myriad.com/events-and-presentations/
+ news-releases/news-release-detail/26976/\n\nFiscal year: 2025\nEarnings c
+ all/webcast: https://edge.media-server.com/mmc/p/5d5uyqxn\nOfficial earni
+ ngs-call source: https://investor.myriad.com/events-and-presentations/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b1a6bd2e79842a8eec57@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260225T213000Z
 DTEND:20260225T223000Z
 SUMMARY:Q4 Veracyte Earnings Conference Call
@@ -162,16 +163,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Total revenue was $140.6 mil
   $570-$582 million\, testing revenue of $560-$570 million and adjusted EB
  ITDA margin of about 25%.\n\nOfficial financial results: https://investor
  .veracyte.com/news-releases/news-release-details/veracyte-announces-fourt
- h-quarter-and-full-year-2025-financial\n\nEarnings call/webcast: https://
- edge.media-server.com/mmc/p/motsphxv/\nOfficial earnings-call source: htt
- ps://investor.veracyte.com/events-presentations
+ h-quarter-and-full-year-2025-financial\n\nFiscal year: 2025\nEarnings cal
+ l/webcast: https://edge.media-server.com/mmc/p/motsphxv/\nOfficial earnin
+ gs-call source: https://investor.veracyte.com/events-presentations
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7003b8c77dcefe566f6b@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260226T213000Z
 DTEND:20260226T223000Z
 SUMMARY:Q4 Caris Earnings Conference Call
@@ -185,16 +186,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $292.9 million\,
  ion\, with clinical therapy-selection volume expected to grow about 20%.\
  n\nOfficial financial results: https://investor.carislifesciences.com/new
  s-releases/news-release-details/caris-life-sciences-reports-fourth-quarte
- r-and-full-year-2025\n\nEarnings call/webcast: https://edge.media-server.
- com/mmc/p/49czfgs4\nOfficial earnings-call source: https://investor.caris
- lifesciences.com/
+ r-and-full-year-2025\n\nFiscal year: 2025\nEarnings call/webcast: https:/
+ /edge.media-server.com/mmc/p/49czfgs4\nOfficial earnings-call source: htt
+ ps://investor.carislifesciences.com/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6997b3f9c8bb0d92f68f@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260226T213000Z
 DTEND:20260226T223000Z
 SUMMARY:Q4 Natera Earnings Conference Call
@@ -209,16 +210,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was $665.5 million\,
   2026 guidance called for revenue of $2.62-$2.70 billion\, gross margin o
  f 63%-65%\, and positive net cash inflow.\n\nOfficial financial results: 
  https://investor.natera.com/financials/quarterly-results/default.aspx\n\n
- Earnings call/webcast: https://investor.natera.com/events-and-presentatio
- ns/events/default.aspx\nOfficial earnings-call source: https://investor.n
- atera.com/events-and-presentations/events/default.aspx
+ Fiscal year: 2025\nEarnings call/webcast: https://investor.natera.com/eve
+ nts-and-presentations/events/default.aspx\nOfficial earnings-call source:
+  https://investor.natera.com/events-and-presentations/events/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:39cbc8d934b19f25e9de@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260226T220000Z
 DTEND:20260226T230000Z
 SUMMARY:Q4 Personalis Earnings Conference Call
@@ -233,17 +234,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q4 2025\n\n- Revenue was approximately $1
  dance called for total revenue of $78-$80 million\, including clinical re
  venue of $10-$11 million.\n\nOfficial financial results: https://investor
  s.personalis.com/news-releases/news-release-details/personalis-reports-fo
- urth-quarter-and-full-year-2025-results-and\n\nEarnings call/webcast: htt
- ps://viavid.webcasts.com/starthere.jsp?ei=1747465&tp_key=1f8d59cce4\nOffi
- cial earnings-call source: https://investors.personalis.com/news-events/e
- vents-and-presentations
+ urth-quarter-and-full-year-2025-results-and\n\nFiscal year: 2025\nEarning
+ s call/webcast: https://viavid.webcasts.com/starthere.jsp?ei=1747465&tp_k
+ ey=1f8d59cce4\nOfficial earnings-call source: https://investors.personali
+ s.com/news-events/events-and-presentations
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:70fc5f88d6208b731a0a@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260421T123000Z
 DTEND:20260421T133000Z
 SUMMARY:Q1 Quest Earnings Conference Call
@@ -258,18 +259,18 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $2.895 billion\,
  $10.63-$10.83.\n\nOfficial financial results: https://ir.questdiagnostics
  .com/press-releases/press-release-details/2026/Quest-Diagnostics-Reports-
  First-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-
- Full-Year-2026/default.aspx\n\nEarnings call/webcast: https://ir.questdia
- gnostics.com/events-and-presentations/default.aspx\nOfficial earnings-cal
- l source: https://ir.questdiagnostics.com/press-releases/press-release-de
- tails/2026/Quest-Diagnostics-to-Release-First-Quarter-Financial-Results-o
- n-April-21-2026/default.aspx
+ Full-Year-2026/default.aspx\n\nFiscal year: 2026\nEarnings call/webcast: 
+ https://ir.questdiagnostics.com/events-and-presentations/default.aspx\nOf
+ ficial earnings-call source: https://ir.questdiagnostics.com/press-releas
+ es/press-release-details/2026/Quest-Diagnostics-to-Release-First-Quarter-
+ Financial-Results-on-April-21-2026/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2b819821545f5c740c64@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260428T203000Z
 DTEND:20260428T213000Z
 SUMMARY:Q1 NeoGenomics Earnings Conference Call
@@ -282,17 +283,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $187 million\, u
  idance called for revenue of $797-$803 million and adjusted EBITDA of $55
  -$57 million.\n\nOfficial financial results: https://ir.neogenomics.com/n
  ews-events/press-releases/detail/327/neogenomics-reports-first-quarter-20
- 26-results\n\nEarnings call/webcast: https://www.webcaster5.com/Webcast/P
- age/1219/53771\nOfficial earnings-call source: https://ir.neogenomics.com
- /news-events/ir-calendar/detail/20260428-first-quarter-2026-financial-res
- ults-conference-call
+ 26-results\n\nFiscal year: 2026\nEarnings call/webcast: https://www.webca
+ ster5.com/Webcast/Page/1219/53771\nOfficial earnings-call source: https:/
+ /ir.neogenomics.com/news-events/ir-calendar/detail/20260428-first-quarter
+ -2026-financial-results-conference-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:73453df7d568625c8d00@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260430T130000Z
 DTEND:20260430T140000Z
 SUMMARY:Q1 Labcorp Earnings Conference Call
@@ -304,17 +305,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $3.54 billion\,
  outflow a year earlier.\n- 2026 guidance was raised to 5.0%-6.1% revenue 
  growth and adjusted EPS of $17.70-$18.35.\n\nOfficial financial results: 
  https://ir.labcorp.com/news-releases/news-release-details/labcorp-announc
- es-2026-first-quarter-results-raises-full-year\n\nEarnings call/webcast: 
- https://edge.media-server.com/mmc/p/6ha4czzu\nOfficial earnings-call sour
- ce: https://ir.labcorp.com/events/event-details/q1-2026-labcorp-holdings-
- earnings-conference-call
+ es-2026-first-quarter-results-raises-full-year\n\nFiscal year: 2026\nEarn
+ ings call/webcast: https://edge.media-server.com/mmc/p/6ha4czzu\nOfficial
+  earnings-call source: https://ir.labcorp.com/events/event-details/q1-202
+ 6-labcorp-holdings-earnings-conference-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c7f5520a87d33ac1be9a@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260505T203000Z
 DTEND:20260505T213000Z
 SUMMARY:Q1 Veracyte Earnings Conference Call
@@ -326,16 +327,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Total revenue was $139.1 mil
  ed EBITDA was $42.8 million\, a 30.8% margin.\n- 2026 revenue guidance wa
  s raised to $582-$592 million\, including testing revenue of $570-$580 mi
  llion.\n\nOfficial financial results: https://investor.veracyte.com/node/
- 17591\n\nEarnings call/webcast: https://edge.media-server.com/mmc/p/293q6
- w6a\nOfficial earnings-call source: https://investor.veracyte.com/events-
- presentations
+ 17591\n\nFiscal year: 2026\nEarnings call/webcast: https://edge.media-ser
+ ver.com/mmc/p/293q6w6a\nOfficial earnings-call source: https://investor.v
+ eracyte.com/events-presentations
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3581db1c18b6f87e310d@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260505T203000Z
 DTEND:20260505T213000Z
 SUMMARY:Q1 Myriad Earnings Conference Call
@@ -347,17 +348,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $200.4 million\,
  rgin was 68.7%\; GAAP net loss was $34.1 million\, adjusted loss was $0.0
  9 per share and adjusted EBITDA was negative $4.5 million.\n- The company
   reiterated its full-year 2026 guidance.\n\nOfficial financial results: h
- ttps://investor.myriad.com/news-releases/news-release-detail/27246/\n\nEa
- rnings call/webcast: https://edge.media-server.com/mmc/p/4mseffvy\nOffici
- al earnings-call source: https://investor.myriad.com/events-and-presentat
- ions/
+ ttps://investor.myriad.com/news-releases/news-release-detail/27246/\n\nFi
+ scal year: 2026\nEarnings call/webcast: https://edge.media-server.com/mmc
+ /p/4mseffvy\nOfficial earnings-call source: https://investor.myriad.com/e
+ vents-and-presentations/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4ee5df2ea1efc71ef291@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260505T203000Z
 DTEND:20260505T213000Z
 SUMMARY:Q1 GRAIL Earnings Conference Call
@@ -371,16 +372,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $40.8 million\,
  valents and short-term marketable securities were approximately $823.1 mi
  llion at quarter end.\n\nOfficial financial results: https://investors.gr
  ail.com/news-releases/news-release-details/grail-reports-first-quarter-20
- 26-financial-results\n\nEarnings call/webcast: https://grail-q1-financial
- -results-2026.open-exchange.net/\nOfficial earnings-call source: https://
- investors.grail.com/news-events/events
+ 26-financial-results\n\nFiscal year: 2026\nEarnings call/webcast: https:/
+ /grail-q1-financial-results-2026.open-exchange.net/\nOfficial earnings-ca
+ ll source: https://investors.grail.com/news-events/events
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6c1d4f3d543a342128ef@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260507T203000Z
 DTEND:20260507T213000Z
 SUMMARY:Q1 Caris Earnings Conference Call
@@ -394,16 +395,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $216.2 million\,
   to higher clinical case volume and improved average selling prices.\n\nO
  fficial financial results: https://investor.carislifesciences.com/news-re
  leases/news-release-details/caris-life-sciences-reports-first-quarter-202
- 6-financial-results\n\nEarnings call/webcast: https://edge.media-server.c
- om/mmc/p/6iwr2xf8/\nOfficial earnings-call source: https://investor.caris
- lifesciences.com/
+ 6-financial-results\n\nFiscal year: 2026\nEarnings call/webcast: https://
+ edge.media-server.com/mmc/p/6iwr2xf8/\nOfficial earnings-call source: htt
+ ps://investor.carislifesciences.com/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ea66abf68fa3784db52b@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260507T203000Z
 DTEND:20260507T213000Z
 SUMMARY:Q1 Guardant Health Earnings Conference Call
@@ -418,17 +419,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $301.7 million\,
  DA loss was $58.9 million.\n- 2026 revenue guidance was raised to $1.30-$
  1.32 billion\, including screening revenue of $186-$198 million.\n\nOffic
  ial financial results: https://investors.guardanthealth.com/financials/qu
- arterly-results/default.aspx\n\nEarnings call/webcast: https://investors.
- guardanthealth.com/financials/quarterly-results/default.aspx\nOfficial ea
- rnings-call source: https://investors.guardanthealth.com/financials/quart
- erly-results/default.aspx
+ arterly-results/default.aspx\n\nFiscal year: 2026\nEarnings call/webcast:
+  https://investors.guardanthealth.com/financials/quarterly-results/defaul
+ t.aspx\nOfficial earnings-call source: https://investors.guardanthealth.c
+ om/financials/quarterly-results/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d87cddaa47e9d0403293@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260507T203000Z
 DTEND:20260507T213000Z
 SUMMARY:Q1 Natera Earnings Conference Call
@@ -440,16 +441,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $696.6 million\,
  ely 258\,900 tests\, up 54.4%\; cash inflow was $11.8 million.\n- 2026 re
  venue guidance was raised to $2.74-$2.82 billion.\n\nOfficial financial r
  esults: https://investor.natera.com/financials/quarterly-results/default.
- aspx\n\nEarnings call/webcast: https://events.q4inc.com/attendee/44307023
- 0\nOfficial earnings-call source: https://investor.natera.com/events-and-
- presentations/events/default.aspx
+ aspx\n\nFiscal year: 2026\nEarnings call/webcast: https://events.q4inc.co
+ m/attendee/443070230\nOfficial earnings-call source: https://investor.nat
+ era.com/events-and-presentations/events/default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:1c96afcfca941fc40305@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260507T210000Z
 DTEND:20260507T220000Z
 SUMMARY:Q1 Personalis Earnings Conference Call
@@ -464,17 +465,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q1 2026\n\n- Revenue was $15.5 million\,
  pproximately $233.2 million.\n- The company reaffirmed full-year 2026 rev
  enue guidance of $78-$80 million.\n\nOfficial financial results: https://
  investors.personalis.com/news-releases/news-release-details/personalis-re
- ports-first-quarter-results-and-recent-highlights\n\nEarnings call/webcas
- t: https://viavid.webcasts.com/starthere.jsp?ei=1757945&tp_key=c0bcc80cff
- \nOfficial earnings-call source: https://investors.personalis.com/news-ev
- ents/events-and-presentations
+ ports-first-quarter-results-and-recent-highlights\n\nFiscal year: 2026\nE
+ arnings call/webcast: https://viavid.webcasts.com/starthere.jsp?ei=175794
+ 5&tp_key=c0bcc80cff\nOfficial earnings-call source: https://investors.per
+ sonalis.com/news-events/events-and-presentations
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:27b72a073fb73ab06e67@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260723T123000Z
 DTEND:20260723T133000Z
 SUMMARY:Q2 Quest Earnings Conference Call
@@ -487,16 +488,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $3.043 billion\,
  uidance was raised to revenue of $11.95-$12.05 billion and adjusted EPS o
  f $11.05-$11.25.\n\nOfficial financial results: https://newsroom.questdia
  gnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Fin
- ancial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026\n\nEarn
- ings call/webcast: https://ir.questdiagnostics.com/\nOfficial earnings-ca
- ll source: https://ir.questdiagnostics.com/
+ ancial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026\n\nFisc
+ al year: 2026\nEarnings call/webcast: https://ir.questdiagnostics.com/\nO
+ fficial earnings-call source: https://ir.questdiagnostics.com/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4be5bfca02b33a2fd9ac@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260728T203000Z
 DTEND:20260728T213000Z
 SUMMARY:Q2 NeoGenomics Earnings Conference Call
@@ -509,17 +510,18 @@ DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $202 million\, u
  ed EBITDA was $14 million\, up 36%.\n- 2026 guidance was raised to revenu
  e of $802-$806 million and adjusted EBITDA of $56-$58 million.\n\nOfficia
  l financial results: https://ir.neogenomics.com/news-events/press-release
- s/detail/336/neogenomics-reports-second-quarter-2026-results\n\nEarnings 
- call/webcast: https://www.webcaster5.com/Webcast/Page/1219/54220\nOfficia
- l earnings-call source: https://ir.neogenomics.com/news-events/ir-calenda
- r/detail/20260728-second-quarter-2026-financial-results-conference-call
+ s/detail/336/neogenomics-reports-second-quarter-2026-results\n\nFiscal ye
+ ar: 2026\nEarnings call/webcast: https://www.webcaster5.com/Webcast/Page/
+ 1219/54220\nOfficial earnings-call source: https://ir.neogenomics.com/new
+ s-events/ir-calendar/detail/20260728-second-quarter-2026-financial-result
+ s-conference-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:50a59efe4ca22e16a9f4@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260730T130000Z
 DTEND:20260730T140000Z
 SUMMARY:Q2 Labcorp Earnings Conference Call
@@ -531,17 +533,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $3.73 billion\,
  nostics Laboratories and Biopharma Laboratory Services.\n- 2026 outlook w
  as updated to 5.4%-6.3% revenue growth and adjusted EPS of $18.10-$18.55.
  \n\nOfficial financial results: https://ir.labcorp.com/events/event-detai
- ls/q2-2026-labcorp-holdings-earnings-conference-call\n\nEarnings call/web
- cast: https://edge.media-server.com/mmc/p/22ts359e\nOfficial earnings-cal
- l source: https://ir.labcorp.com/events/event-details/q2-2026-labcorp-hol
- dings-earnings-conference-call
+ ls/q2-2026-labcorp-holdings-earnings-conference-call\n\nFiscal year: 2026
+ \nEarnings call/webcast: https://edge.media-server.com/mmc/p/22ts359e\nOf
+ ficial earnings-call source: https://ir.labcorp.com/events/event-details/
+ q2-2026-labcorp-holdings-earnings-conference-call
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfbc0adf44c711baf34@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260730T203000Z
 DTEND:20260730T213000Z
 SUMMARY:Q2 Veracyte Earnings Conference Call
@@ -554,16 +556,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Total revenue was approximat
  illion\; adjusted EBITDA margin was 29.2%.\n- 2026 outlook was raised to 
  revenue of $590-$596 million\, testing revenue of $576-$582 million and a
  djusted EBITDA margin above 26%.\n\nOfficial financial results: https://i
- nvestor.veracyte.com/events-presentations\n\nEarnings call/webcast: https
- ://edge.media-server.com/mmc/p/wwu2pyd7/\nOfficial earnings-call source: 
- https://investor.veracyte.com/events-presentations
+ nvestor.veracyte.com/events-presentations\n\nFiscal year: 2026\nEarnings 
+ call/webcast: https://edge.media-server.com/mmc/p/wwu2pyd7/\nOfficial ear
+ nings-call source: https://investor.veracyte.com/events-presentations
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0b1b340bdcda178a883a@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260730T203000Z
 DTEND:20260730T213000Z
 SUMMARY:Q2 Guardant Health Earnings Conference Call
@@ -577,17 +579,18 @@ DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $335.0 million\,
  billion.\n\nOfficial financial results: https://investors.guardanthealth.
  com/press-releases/press-releases/2026/Guardant-Health-Reports-Second-Qua
  rter-2026-Financial-Results-and-Increases-2026-Revenue-Guidance/default.a
- spx\n\nEarnings call/webcast: https://investors.guardanthealth.com/overvi
- ew/default.aspx\nOfficial earnings-call source: https://investors.guardan
- thealth.com/press-releases/press-releases/2026/Guardant-Health-to-Report-
- Second-Quarter-2026-Financial-Results-on-July-30-2026/default.aspx
+ spx\n\nFiscal year: 2026\nEarnings call/webcast: https://investors.guarda
+ nthealth.com/overview/default.aspx\nOfficial earnings-call source: https:
+ //investors.guardanthealth.com/press-releases/press-releases/2026/Guardan
+ t-Health-to-Report-Second-Quarter-2026-Financial-Results-on-July-30-2026/
+ default.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:851dd0e8de889319383e@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260730T203000Z
 DTEND:20260730T213000Z
 SUMMARY:Q2 Myriad Earnings Conference Call
@@ -600,16 +603,17 @@ DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $190.7 million\,
   million\, or $0.46 per share.\n- 2026 revenue guidance was revised to $7
  70-$790 million with adjusted gross margin of 66%-67%\; prior adjusted EB
  ITDA guidance was suspended.\n\nOfficial financial results: https://inves
- tor.myriad.com/news-releases/news-release-detail/27481/\n\nEarnings call/
- webcast: https://edge.media-server.com/mmc/p/koiev25j\nOfficial earnings-
- call source: https://investor.myriad.com/events-and-presentations/
+ tor.myriad.com/news-releases/news-release-detail/27481/\n\nFiscal year: 2
+ 026\nEarnings call/webcast: https://edge.media-server.com/mmc/p/koiev25j\
+ nOfficial earnings-call source: https://investor.myriad.com/events-and-pr
+ esentations/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:167c1d15f2e936ec13ff@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:Q2 Caris Earnings Conference Call
@@ -623,16 +627,16 @@ DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\n- Revenue was $263.7 million\,
  $1.04 billion\; clinical therapy-selection volume growth remained about 2
  0%.\n\nOfficial financial results: https://investor.carislifesciences.com
  /news-releases/news-release-details/caris-life-sciences-reports-second-qu
- arter-2026-financial\n\nEarnings call/webcast: https://edge.media-server.
- com/mmc/p/ff8xb4qs\nOfficial earnings-call source: https://investor.caris
- lifesciences.com/
+ arter-2026-financial\n\nFiscal year: 2026\nEarnings call/webcast: https:/
+ /edge.media-server.com/mmc/p/ff8xb4qs\nOfficial earnings-call source: htt
+ ps://investor.carislifesciences.com/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:32c698ff9c75db526c82@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:Q2 GRAIL Earnings Conference Call
@@ -641,16 +645,16 @@ URL:https://grail-q2-financial-results-2026.open-exchange.net/
 DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\nOfficial financial results hav
  e not yet been verified on the company's investor-relations site.\nThis e
  vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nEarnings call/webcast: https://grail-q
- 2-financial-results-2026.open-exchange.net/\nOfficial earnings-call sourc
- e: https://investors.grail.com/news-events/events
+ l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
+ st: https://grail-q2-financial-results-2026.open-exchange.net/\nOfficial 
+ earnings-call source: https://investors.grail.com/news-events/events
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c4bb138931ef272d7591@diagnostics-earnings-calendar
-DTSTAMP:20260816T151104Z
-LAST-MODIFIED:20260816T151104Z
+DTSTAMP:20260816T152252Z
+LAST-MODIFIED:20260816T152252Z
 DTSTART:20260806T203000Z
 DTEND:20260806T213000Z
 SUMMARY:Q2 Natera Earnings Conference Call
@@ -659,9 +663,10 @@ URL:https://events.q4inc.com/attendee/786717759
 DESCRIPTION:FINANCIAL SUMMARY - Q2 2026\n\nOfficial financial results hav
  e not yet been verified on the company's investor-relations site.\nThis e
  vent is monitored daily and will be updated automatically when an officia
- l company release is available.\n\nEarnings call/webcast: https://events.
- q4inc.com/attendee/786717759\nOfficial earnings-call source: https://inve
- stor.natera.com/events-and-presentations/events/default.aspx
+ l company release is available.\n\nFiscal year: 2026\nEarnings call/webca
+ st: https://events.q4inc.com/attendee/786717759\nOfficial earnings-call s
+ ource: https://investor.natera.com/events-and-presentations/events/defaul
+ t.aspx
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
