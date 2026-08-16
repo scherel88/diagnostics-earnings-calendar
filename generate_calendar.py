@@ -1,4 +1,3 @@
-import glob
 import hashlib
 import json
 import re
@@ -11,12 +10,29 @@ ICS_FILE = ROOT / "earnings.ics"
 RESULTS_DIR = ROOT / "results"
 
 
+def period_label(item):
+    if item.get("quarter") is not None:
+        return f"Q{int(item['quarter'])}"
+    return str(item["period"]).strip()
+
+
+def record_key(item):
+    return (item["company"], period_label(item), int(item["fiscal_year"]))
+
+
+def event_title(event):
+    label = period_label(event)
+    if event.get("quarter") is not None:
+        return f"{label} {event['company']} Earnings Conference Call"
+    event_type = event.get("event_type", "Financial Results Presentation")
+    return f"{label} {event['company']} {event_type}"
+
+
 def load_results():
     out = {}
     for path in sorted(RESULTS_DIR.glob("*.json")):
         for item in json.loads(path.read_text(encoding="utf-8")):
-            key = (item["company"], int(item["quarter"]), int(item["fiscal_year"]))
-            out[key] = item
+            out[record_key(item)] = item
     return out
 
 
@@ -62,15 +78,15 @@ def fold_line(line, limit=73):
     return "\r\n ".join(parts)
 
 
-def fallback_uid(company, quarter, fiscal_year):
-    key = f"{company}|{quarter}|{fiscal_year}|diagnostics-earnings-calendar"
+def fallback_uid(event):
+    key = f"{event['company']}|{period_label(event)}|{event['fiscal_year']}|diagnostics-earnings-calendar"
     return hashlib.sha1(key.encode()).hexdigest()[:20] + "@diagnostics-earnings-calendar"
 
 
 def description(event, result):
-    q = int(event["quarter"])
+    label = period_label(event)
     fy = int(event["fiscal_year"])
-    lines = [f"FINANCIAL SUMMARY - Q{q} {fy}", ""]
+    lines = [f"FINANCIAL SUMMARY - {label} {fy}", ""]
     if result and result.get("status", "published") == "published":
         lines.extend(f"- {line}" for line in result.get("lines", []))
         if result.get("results_url"):
@@ -82,6 +98,7 @@ def description(event, result):
         ])
     lines.extend([
         "",
+        f"Fiscal year: {fy}",
         f"Earnings call/webcast: {event['webcast']}",
         f"Official earnings-call source: {event['source']}"
     ])
@@ -96,8 +113,7 @@ def main():
 
     prepared = []
     for event in events:
-        key = (event["company"], int(event["quarter"]), int(event["fiscal_year"]))
-        result = results.get(key)
+        result = results.get(record_key(event))
         if result and result.get("start_override"):
             event = dict(event)
             event["start"] = result["start_override"]
@@ -110,20 +126,19 @@ def main():
         "PRODID:-//scherel88//Diagnostics Earnings Calendar//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:Diagnostics Earnings Calls",
-        "X-WR-CALDESC:Earnings conference calls for selected diagnostics and precision oncology companies.",
+        "X-WR-CALNAME:Genomics & Diagnostics Earnings Calls",
+        "X-WR-CALDESC:Financial-results calls and presentations for selected genomics, sequencing, diagnostics and precision-oncology companies.",
         "X-WR-TIMEZONE:America/New_York",
         "REFRESH-INTERVAL;VALUE=DURATION:P1D",
         "X-PUBLISHED-TTL:P1D",
     ]
 
     for event, result in prepared:
-        q = int(event["quarter"])
         fy = int(event["fiscal_year"])
-        title = f"Q{q} {event['company']} Earnings Conference Call"
+        title = event_title(event)
         start = datetime.fromisoformat(event["start"])
         end = start + timedelta(hours=1)
-        uid = old_uids.get((title, fy), fallback_uid(event["company"], q, fy))
+        uid = old_uids.get((title, fy), fallback_uid(event))
         lines.extend([
             "BEGIN:VEVENT",
             f"UID:{uid}",
