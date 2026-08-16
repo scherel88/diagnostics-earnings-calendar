@@ -28,16 +28,11 @@ def event_title(event):
 
 
 def load_events():
-    events = []
-    seen = set()
+    out = {}
     for path in sorted(ROOT.glob("events*.json")):
         for item in json.loads(path.read_text(encoding="utf-8")):
-            key = record_key(item)
-            if key in seen:
-                continue
-            seen.add(key)
-            events.append(item)
-    return events
+            out[record_key(item)] = item
+    return list(out.values())
 
 
 def load_results():
