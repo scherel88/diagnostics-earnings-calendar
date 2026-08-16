@@ -3,7 +3,7 @@ name: Build calendar feed
 on:
   push:
     paths:
-      - "events.json"
+      - "events*.json"
       - "results/**"
       - "generate_calendar.py"
       - ".github/workflows/update-calendar.yml"
