@@ -1,0 +1,40 @@
+name: Build calendar feed
+
+on:
+  push:
+    paths:
+      - "events.json"
+      - "results/**"
+      - "generate_calendar.py"
+      - ".github/workflows/update-calendar.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate ICS feed
+        run: python generate_calendar.py
+
+      - name: Commit calendar changes
+        run: |
+          if git diff --quiet -- earnings.ics; then
+            echo "No calendar changes"
+            exit 0
+          fi
+          git config user.name "diagnostics-earnings-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add earnings.ics
+          git commit -m "Update earnings calendar feed"
+          git push
