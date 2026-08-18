@@ -136,8 +136,8 @@ def main():
         "X-WR-CALNAME:Genomics & Diagnostics Earnings Calls",
         "X-WR-CALDESC:Financial-results calls and presentations for selected genomics, sequencing, diagnostics and precision-oncology companies.",
         "X-WR-TIMEZONE:America/New_York",
-        "REFRESH-INTERVAL;VALUE=DURATION:P1D",
-        "X-PUBLISHED-TTL:P1D",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT5M",
+        "X-PUBLISHED-TTL:PT5M",
     ]
 
     for event, result in prepared:
