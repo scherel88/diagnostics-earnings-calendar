@@ -90,6 +90,14 @@
     "source": "https://ir.thermofisher.com/investors/news-events/events/event-details/default.aspx"
   },
   {
+    "company": "Thermo Fisher Scientific",
+    "quarter": 3,
+    "fiscal_year": 2026,
+    "start": "2026-10-21T07:00:00-04:00",
+    "webcast": "https://ir.thermofisher.com/investors/news-events/events/default.aspx",
+    "source": "https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-to-Hold-Earnings-Conference-Call-on-Wednesday-October-21-2026/default.aspx"
+  },
+  {
     "company": "Tempus AI",
     "quarter": 4,
     "fiscal_year": 2025,
