@@ -24,6 +24,14 @@
     "source": "https://ir.labcorp.com/events/event-details/q2-2026-labcorp-holdings-earnings-conference-call"
   },
   {
+    "company": "Labcorp",
+    "quarter": 3,
+    "fiscal_year": 2026,
+    "start": "2026-10-28T09:00:00-04:00",
+    "webcast": "https://edge.media-server.com/mmc/p/e94y5q9x",
+    "source": "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announce-third-quarter-2026-financial-results-october-28"
+  },
+  {
     "company": "Veracyte",
     "quarter": 4,
     "fiscal_year": 2025,
