@@ -246,5 +246,13 @@
     "start": "2026-08-05T16:30:00-04:00",
     "webcast": "https://grail-q2-financial-results-2026.open-exchange.net/",
     "source": "https://investors.grail.com/news-events/events"
+  },
+  {
+    "company": "Illumina",
+    "quarter": 3,
+    "fiscal_year": 2026,
+    "start": "2026-10-29T16:30:00-04:00",
+    "webcast": "https://illumina-earnings-call-q3-2026.open-exchange.net/",
+    "source": "https://investor.illumina.com/news-releases/news-release-details/illumina-announce-third-quarter-2026-financial-results-thursday"
   }
 ]
