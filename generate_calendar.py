@@ -16,10 +16,12 @@ def period_label(item):
 
 
 def record_key(item):
-    return (item["company"], period_label(item), int(item["fiscal_year"]))
+    return ("investor", item["event_id"]) if item.get("event_id") else (item["company"], period_label(item), int(item["fiscal_year"]))
 
 
 def event_title(event):
+    if event.get("event_id"):
+        return event["title"]
     label = period_label(event)
     if event.get("quarter") is not None:
         return f"{label} {event['company']} Earnings Conference Call"
@@ -86,11 +88,13 @@ def fold_line(line, limit=73):
 
 
 def fallback_uid(event):
-    key = f"{event['company']}|{period_label(event)}|{event['fiscal_year']}|diagnostics-earnings-calendar"
+    key = (f"investor|{event['event_id']}|diagnostics-earnings-calendar" if event.get("event_id") else f"{event['company']}|{period_label(event)}|{event['fiscal_year']}|diagnostics-earnings-calendar")
     return hashlib.sha1(key.encode()).hexdigest()[:20] + "@diagnostics-earnings-calendar"
 
 
 def description(event, result):
+    if event.get("event_id"):
+        return "\n".join([f"Investor event: {event['title']}", f"Company: {event['company']}", f"Fiscal year: {event['fiscal_year']}", f"Official event source: {event['source']}", f"Webcast / event page: {event['webcast']}"])
     label = period_label(event)
     fy = int(event["fiscal_year"])
     lines = [f"FINANCIAL SUMMARY - {label} {fy}", ""]
@@ -120,7 +124,7 @@ def main():
 
     prepared = []
     for event in events:
-        result = results.get(record_key(event))
+        result = None if event.get("event_id") else results.get(record_key(event))
         if result and result.get("start_override"):
             event = dict(event)
             event["start"] = result["start_override"]
@@ -133,8 +137,8 @@ def main():
         "PRODID:-//scherel88//Diagnostics Earnings Calendar//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:Genomics & Diagnostics Earnings Calls",
-        "X-WR-CALDESC:Financial-results calls and presentations for selected genomics, sequencing, diagnostics and precision-oncology companies.",
+        "X-WR-CALNAME:Genomics & Diagnostics Investor Events",
+        "X-WR-CALDESC:Earnings calls, investor days and official investor conference presentations for selected genomics and diagnostics companies.",
         "X-WR-TIMEZONE:America/New_York",
         "REFRESH-INTERVAL;VALUE=DURATION:PT5M",
         "X-PUBLISHED-TTL:PT5M",
@@ -145,7 +149,7 @@ def main():
         title = event_title(event)
         start = datetime.fromisoformat(event["start"])
         end = start + timedelta(hours=1)
-        uid = old_uids.get((title, fy), fallback_uid(event))
+        uid = fallback_uid(event) if event.get("event_id") else old_uids.get((title, fy), fallback_uid(event))
         lines.extend([
             "BEGIN:VEVENT",
             f"UID:{uid}",
