@@ -278,5 +278,13 @@
     "start": "2026-11-04T16:30:00-05:00",
     "webcast": "https://investor.pacificbiosciences.com/",
     "source": "https://investor.pacificbiosciences.com/news-releases/news-release-details/pacbio-report-third-quarter-2026-financial-results-november-4"
+  },
+  {
+    "company": "Veracyte",
+    "quarter": 3,
+    "fiscal_year": 2026,
+    "start": "2026-11-04T16:30:00-05:00",
+    "webcast": "https://edge.media-server.com/mmc/p/kgcmbvpd",
+    "source": "https://investor.veracyte.com/news-releases/news-release-details/veracyte-release-third-quarter-2026-financial-results-november-4"
   }
 ]
