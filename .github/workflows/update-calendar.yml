@@ -6,6 +6,7 @@ on:
       - "events*.json"
       - "results/**"
       - "generate_calendar.py"
+      - "validate_calendar.py"
       - ".github/workflows/update-calendar.yml"
   workflow_dispatch:
   schedule:
