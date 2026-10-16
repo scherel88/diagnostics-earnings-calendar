@@ -8,6 +8,8 @@ on:
       - "generate_calendar.py"
       - ".github/workflows/update-calendar.yml"
   workflow_dispatch:
+  schedule:
+    - cron: "17 12 * * *"
 
 permissions:
   contents: write
@@ -28,8 +30,14 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Validate event records
+        run: python validate_calendar.py
+
       - name: Generate ICS feed
         run: python generate_calendar.py
+
+      - name: Validate generated calendar
+        run: python validate_calendar.py --ics
 
       - name: Commit calendar changes
         run: |
