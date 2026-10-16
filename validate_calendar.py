@@ -26,6 +26,11 @@ def main():
                 raise ValueError(f"Conflicting duplicate event: {key}")
             events[key] = event
     if args.ics:
+        results = {}
+        for path in sorted((ROOT / "results").glob("*.json")):
+            for item in json.loads(path.read_text(encoding="utf-8")):
+                key = ("investor", item["event_id"]) if item.get("event_id") else (item["company"], item.get("quarter", item.get("period")), item["fiscal_year"])
+                results[key] = item
         content = (ROOT / "earnings.ics").read_text(encoding="utf-8")
         unfolded = re.sub(r"\n[ \t]", "", content)
         blocks = re.findall(r"BEGIN:VEVENT\n(.*?)\nEND:VEVENT", unfolded, flags=re.S)
@@ -36,8 +41,11 @@ def main():
                 raise ValueError("Missing or duplicate calendar UID")
             uids.add(uid.group(1))
         for event in events.values():
-            start = datetime.fromisoformat(event["start"]).astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-            if not any(f"DTSTART:{start}" in b and f"Fiscal year: {event['fiscal_year']}" in b.replace("\\n", " ") for b in blocks):
+            key = ("investor", event["event_id"]) if event.get("event_id") else (event["company"], event.get("quarter", event.get("period")), event["fiscal_year"])
+            actual_start = results.get(key, {}).get("start_override", event["start"])
+            start = datetime.fromisoformat(actual_start).astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+            label = event.get("title") if event.get("event_id") else (f"Q{event['quarter']} {event['company']} Earnings Conference Call" if event.get("quarter") is not None else f"{event['period']} {event['company']} {event.get('event_type', 'Financial Results Presentation')}")
+            if not any(f"DTSTART:{start}" in b and f"SUMMARY:{label}" in b for b in blocks):
                 raise ValueError(f"Event missing from ICS: {event['company']} {event['start']}")
         if len(blocks) < len(events):
             raise ValueError("Calendar has fewer events than source records")
