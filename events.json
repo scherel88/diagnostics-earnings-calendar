@@ -318,5 +318,13 @@
     "start": "2026-11-04T16:30:00-05:00",
     "webcast": "https://edge.media-server.com/mmc/p/wb9q9q9r",
     "source": "https://investor.myriad.com/news-releases/news-release-detail/27616/"
+  },
+  {
+    "company": "Caris",
+    "quarter": 3,
+    "fiscal_year": 2026,
+    "start": "2026-11-04T16:30:00-05:00",
+    "webcast": "https://edge.media-server.com/mmc/p/nri9afky",
+    "source": "https://investor.carislifesciences.com/"
   }
 ]
