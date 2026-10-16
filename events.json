@@ -302,5 +302,13 @@
     "start": "2026-11-04T16:30:00-05:00",
     "webcast": "https://investors.adaptivebiotech.com/",
     "source": "https://rss.globenewswire.com/news-release/2026/10/14/3381135/0/en/adaptive-biotechnologies-to-report-third-quarter-2026-financial-results-on-november-4-2026.html"
+  },
+  {
+    "company": "Tempus AI",
+    "quarter": 3,
+    "fiscal_year": 2026,
+    "start": "2026-11-02T08:45:00-05:00",
+    "webcast": "https://investors.tempus.com/news-events/investor-events",
+    "source": "https://investors.tempus.com/news-releases/news-release-details/tempus-report-third-quarter-2026-financial-results-november-2"
   }
 ]
