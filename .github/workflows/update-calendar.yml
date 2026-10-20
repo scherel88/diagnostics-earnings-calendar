@@ -47,7 +47,7 @@ jobs:
           if previous.returncode == 0:
               old = previous.stdout.decode("utf-8")
               new = p.read_bytes().decode("utf-8")
-              clean = lambda s: re.sub(r"^(DTSTAMP|LAST-MODIFIED):[^\\r\\n]*", r"\\1:UNCHANGED", s, flags=re.M)
+              clean = lambda s: re.sub(r"^(DTSTAMP|LAST-MODIFIED):[^\r\n]*", r"\1:UNCHANGED", s, flags=re.M)
               if clean(old) == clean(new):
                   p.write_bytes(previous.stdout)
                   print("No substantive calendar changes")
