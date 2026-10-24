@@ -62,8 +62,18 @@
   "repository_status": {
     "source_commit": "https://github.com/scherel88/diagnostics-earnings-calendar/commit/5af5f878449ed91c2c5b547e0a663c98e8550c0f",
     "results_commit": "https://github.com/scherel88/diagnostics-earnings-calendar/commit/84b87bd6e82bd02e4573607dc69e838274924299",
-    "publication_verification": "pending",
-    "calendar_url_preserved": true
+    "publication_verification": "repository_ics_verified",
+    "calendar_url_preserved": true,
+    "publication_commit": "https://github.com/scherel88/diagnostics-earnings-calendar/commit/8f1d8a2014ac397318a37941c46f0640dc2905c0",
+    "publisher": "github-actions[bot]",
+    "published_event_count": 79,
+    "unique_uid_count": 79,
+    "new_event_present": true,
+    "new_event_utc_start": "2026-11-09T21:30:00Z",
+    "new_event_utc_end": "2026-11-09T22:30:00Z",
+    "full_workflow_run_conclusion": "unverified_no_run_listing_action",
+    "independent_public_raw_feed_access": "unverified_network_unavailable",
+    "publication_checked_at": "2026-10-24T11:59:23.209Z"
   },
   "checks": [
     {
