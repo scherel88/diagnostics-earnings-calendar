@@ -342,5 +342,13 @@
     "start": "2026-11-09T16:30:00-05:00",
     "webcast": "https://edge.media-server.com/mmc/p/mfphs4mz",
     "source": "https://ir.genedx.com/events/event-details/genedx-third-quarter-2026-earnings-conference-call"
+  },
+  {
+    "company": "Twist Bioscience",
+    "quarter": 4,
+    "fiscal_year": 2026,
+    "start": "2026-11-12T08:00:00-05:00",
+    "webcast": "https://edge.media-server.com/mmc/p/wgk6s8sg",
+    "source": "https://investors.twistbioscience.com/events/event-details/fiscal-2026-fourth-quarter-financial-results-conference-call"
   }
 ]
