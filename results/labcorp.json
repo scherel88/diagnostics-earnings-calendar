@@ -43,12 +43,14 @@
     "quarter": 3,
     "fiscal_year": 2026,
     "status": "published",
-    "results_url": "https://ir.labcorp.com/static-files/66608ac3-83e3-4aca-ac63-e93708e4711b",
+    "results_url": "https://ir.labcorp.com/news-releases/news-release-details/labcorp-reports-strong-2026-third-quarter-results-raises-full",
     "lines": [
       "Third-quarter revenue was $3.81 billion, up 6.9% from $3.56 billion a year earlier.",
       "GAAP diluted EPS was $3.22 versus $3.12; adjusted EPS was $4.78 versus $4.18, up 14.5%.",
       "Full-year 2026 revenue growth guidance increased to 5.9%-6.7%; adjusted EPS guidance increased to $18.30-$18.70.",
-      "FDA approved PGDx elio tissue complete CDx as a companion diagnostic for advanced melanoma."
+      "FDA approved PGDx elio tissue complete CDx as a companion diagnostic for advanced melanoma.",
+      "Diagnostics Laboratories revenue was $2.949 billion, up 6.5%; Biopharma Laboratory Services revenue was $866.7 million, up 8.5%.",
+      "Announced a study with OHSU Knight Cancer Institute evaluating Plasma Detect Genome MRD Ultra for earlier recurrence detection in muscle-invasive bladder cancer."
     ]
   }
 ]
