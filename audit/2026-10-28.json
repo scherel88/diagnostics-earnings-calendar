@@ -164,7 +164,7 @@
   ],
   "repository_status": {
     "repository": "scherel88/diagnostics-earnings-calendar",
-    "event_json_count": 44,
+    "event_json_count": 86,
     "ics_event_count": 86,
     "ics_unique_uids": 86,
     "duplicate_ics_uids": 0,
@@ -172,9 +172,13 @@
     "public_feed_access": "unverified",
     "github_actions_final_conclusion": "unverified",
     "actions_limitation": "GitHub connector can fetch files and commits but exposes no general list/dispatch workflow runs. GitHub Actions and raw public feed URLs inaccessible via web. Bot-generated calendar commit observed; not equivalent to final run-success confirmation.",
-    "new_event_calendar_inclusion": "all six new titles found in repository earnings.ics",
-    "labcorp_q3_financial_description": "verified included in repository ICS",
-    "calendar_url_preserved": "earnings.ics"
+    "new_event_calendar_inclusion": "all six exact titles and UTC DTSTART values verified in repository earnings.ics",
+    "labcorp_q3_financial_description": "verified official Q3 2026 metrics and OHSU MRD collaboration included in repository ICS",
+    "calendar_url_preserved": "earnings.ics",
+    "all_ics_durations": "86/86 exactly one hour",
+    "calendar_publication_commit": "https://github.com/scherel88/diagnostics-earnings-calendar/commit/9032b6f1b6607bebcd7064f585c2cfd6b60bf152",
+    "events_commit": "https://github.com/scherel88/diagnostics-earnings-calendar/commit/ce3bd03573fb4f535e7e4902ec652db0b00da683",
+    "results_commit": "https://github.com/scherel88/diagnostics-earnings-calendar/commit/206beb6c91e5b1e3682274183710dd7e2abb25e7"
   },
   "failures": [
     {
