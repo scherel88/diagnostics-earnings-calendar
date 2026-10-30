@@ -37,5 +37,19 @@
       "GAAP diluted EPS was $1.35 and non-GAAP diluted EPS was $1.31.",
       "Illumina raised 2026 guidance to $4.60-$4.64 billion of revenue, greater than 5% rest-of-world organic growth, and $5.30-$5.40 of non-GAAP diluted EPS."
     ]
+  },
+  {
+    "company": "Illumina",
+    "quarter": 3,
+    "fiscal_year": 2026,
+    "status": "published",
+    "results_url": "https://investor.illumina.com/news-releases/news-release-details/illumina-reports-financial-results-third-quarter-fiscal-year-8",
+    "lines": [
+      "Q3 revenue was $1.129 billion, up 4.2% year over year; excluding tariff refunds, revenue was $1.166 billion.",
+      "GAAP operating margin was 27.0%; non-GAAP operating margin was 28.8% (25.0% excluding tariff refunds).",
+      "GAAP diluted EPS was $1.43; non-GAAP diluted EPS was $1.62 ($1.44 excluding tariff refunds).",
+      "Q3 operating cash flow was $419 million and free cash flow was $378 million.",
+      "2026 guidance excluding tariff refunds raised to $4.64-$4.66 billion revenue and $5.40-$5.45 non-GAAP diluted EPS; strong clinical demand and NovaSeq X placements cited."
+    ]
   }
 ]
