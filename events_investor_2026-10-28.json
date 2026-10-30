@@ -61,5 +61,32 @@
     "start": "2026-11-17T11:30:00-05:00",
     "webcast": "https://investors.10xgenomics.com/",
     "source": "https://www.prnewswire.com/news-releases/10x-genomics-to-participate-in-the-2026-jefferies-global-healthcare-conference-302921150.html"
+  },
+  {
+    "event_id": "veracyte-ubs-global-healthcare-2026-11-10",
+    "company": "Veracyte",
+    "title": "Veracyte — UBS Global Healthcare Conference Fireside Chat",
+    "fiscal_year": 2026,
+    "start": "2026-11-10T16:15:00-05:00",
+    "webcast": "https://investor.veracyte.com/events-presentations",
+    "source": "https://investor.veracyte.com/news-releases/news-release-details/veracyte-participate-upcoming-investor-conferences-9"
+  },
+  {
+    "event_id": "veracyte-jefferies-global-healthcare-2026-11-18",
+    "company": "Veracyte",
+    "title": "Veracyte — Jefferies Global Healthcare Conference Fireside Chat",
+    "fiscal_year": 2026,
+    "start": "2026-11-18T09:30:00-05:00",
+    "webcast": "https://investor.veracyte.com/events-presentations",
+    "source": "https://investor.veracyte.com/news-releases/news-release-details/veracyte-participate-upcoming-investor-conferences-9"
+  },
+  {
+    "event_id": "veracyte-stephens-investment-2026-11-19",
+    "company": "Veracyte",
+    "title": "Veracyte — Stephens Annual Investment Conference Fireside Chat",
+    "fiscal_year": 2026,
+    "start": "2026-11-19T10:30:00-05:00",
+    "webcast": "https://investor.veracyte.com/events-presentations",
+    "source": "https://investor.veracyte.com/news-releases/news-release-details/veracyte-participate-upcoming-investor-conferences-9"
   }
 ]
