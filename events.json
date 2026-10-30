@@ -350,5 +350,13 @@
     "start": "2026-11-12T08:00:00-05:00",
     "webcast": "https://edge.media-server.com/mmc/p/wgk6s8sg",
     "source": "https://investors.twistbioscience.com/events/event-details/fiscal-2026-fourth-quarter-financial-results-conference-call"
+  },
+  {
+    "company": "Natera",
+    "quarter": 3,
+    "fiscal_year": 2026,
+    "start": "2026-11-05T16:30:00-05:00",
+    "webcast": "https://events.q4inc.com/attendee/221556643",
+    "source": "https://www.natera.com/company/news/natera-to-report-its-third-quarter-results-on-november-5-2026/"
   }
 ]
