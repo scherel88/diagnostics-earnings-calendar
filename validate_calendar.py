@@ -40,8 +40,8 @@ def main():
             if not uid or uid.group(1) in uids:
                 raise ValueError("Missing or duplicate calendar UID")
             uids.add(uid.group(1))
-            starts = re.search(r"^DTSTART:(\\d{8}T\\d{6}Z)$", block, flags=re.M)
-            ends = re.search(r"^DTEND:(\\d{8}T\\d{6}Z)$", block, flags=re.M)
+            starts = re.search(r"^DTSTART:([0-9]{8}T[0-9]{6}Z)$", block, flags=re.M)
+            ends = re.search(r"^DTEND:([0-9]{8}T[0-9]{6}Z)$", block, flags=re.M)
             if not starts or not ends:
                 raise ValueError("Calendar event missing valid UTC DTSTART/DTEND")
             start_utc = datetime.strptime(starts.group(1), "%Y%m%dT%H%M%SZ")
