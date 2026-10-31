@@ -1,7 +1,7 @@
 {
   "audit_date": "2026-10-31",
   "timezone": "America/New_York",
-  "generated_at": "2026-10-31T12:00:02.342Z",
+  "generated_at": "2026-10-31T12:01:19.187Z",
   "company_count": 26,
   "category_count": 3,
   "total_checks": 78,
@@ -96,7 +96,8 @@
     "source_changes": [
       "Natera Q3 source changed to now-accessible official IR event detail",
       "Calendar generator changed to atomic same-directory write",
-      "Calendar validator now enforces UTC DTSTART/DTEND and one-hour duration"
+      "Calendar validator now enforces UTC DTSTART/DTEND and one-hour duration",
+      "Concurrent GitHub Actions publishing race repaired and successful run verified"
     ],
     "event_source_commit": "d1d22f28e34f457d0b5e416fbfda460290419726",
     "atomic_generator_commit": "4753f7c8f50b476167fc91b061adbc1192035d14",
@@ -105,7 +106,39 @@
     "calendar_unique_uids_before": 91,
     "actions_latest_verified_success_before_changes": "https://github.com/scherel88/diagnostics-earnings-calendar/actions/runs/41103099320",
     "public_feed_url": "https://raw.githubusercontent.com/scherel88/diagnostics-earnings-calendar/main/earnings.ics",
-    "publication_after_changes": "pending_verification"
+    "publication_after_changes": "verified",
+    "workflow_repair_commit": "7946efc7b8a5ed2efda797640f265941a32994e3",
+    "validator_fix_commit": "f0d9c9280e1fec317573378175f9173d238173d2",
+    "latest_successful_workflow_run": "https://github.com/scherel88/diagnostics-earnings-calendar/actions/runs/41199218980",
+    "previous_failed_workflow_runs": [
+      "https://github.com/scherel88/diagnostics-earnings-calendar/actions/runs/41199076886",
+      "https://github.com/scherel88/diagnostics-earnings-calendar/actions/runs/41199085996"
+    ],
+    "calendar_events_after": 91,
+    "calendar_unique_uids_after": 91,
+    "duplicate_uids": 0,
+    "non_one_hour_events": 0,
+    "public_feed_retrieved": true,
+    "public_feed_identical_to_repository": true,
+    "natera_q3_in_published_feed": true,
+    "natera_official_ir_source_in_published_feed": true,
+    "issues_detected_and_repaired": [
+      {
+        "issue": "Concurrent Actions generated-feed push rejected; rebase caused ICS merge conflict",
+        "remediation": "Refetch latest remote sources, reset CI checkout and regenerate feed before retrying; three attempts with backoff",
+        "fixed_commit": "7946efc7b8a5ed2efda797640f265941a32994e3"
+      },
+      {
+        "issue": "Initial new UTC timestamp validator escaped regex incorrectly",
+        "remediation": "Replace with explicit [0-9] pattern and validate all event durations",
+        "fixed_commit": "f0d9c9280e1fec317573378175f9173d238173d2"
+      },
+      {
+        "issue": "Non-atomic calendar generator file write",
+        "remediation": "Use same-directory temporary file, fsync and atomic os.replace",
+        "fixed_commit": "4753f7c8f50b476167fc91b061adbc1192035d14"
+      }
+    ]
   },
   "failures": [
     {
