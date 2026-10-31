@@ -1,7 +1,7 @@
 {
   "audit_date": "2026-10-31",
   "timezone": "America/New_York",
-  "generated_at": "2026-10-31T12:01:19.187Z",
+  "generated_at": "2026-10-31T12:01:35.401Z",
   "company_count": 26,
   "category_count": 3,
   "total_checks": 78,
@@ -63,32 +63,29 @@
       "organizer": "UBS Global Healthcare Conference",
       "url": "https://www.ubs.com/global/en/investment-bank/in-focus/2026/global-healthcare-conference.html",
       "status": "incomplete",
-      "checked_at": "2026-10-31T12:00:02.342Z",
-      "error": "Official organizer schedule inaccessible; issuer primary sources confirm recorded presentations.",
-      "notes": "Official organizer pages and issuer primary sources were rechecked; complete presenter agendas remain inaccessible."
+      "checked_at": "2026-10-31T12:01:35.401Z",
+      "error": "Organizer event page inaccessible; issuer IR pages independently confirm existing presentations."
     },
     {
       "organizer": "Jefferies Global Healthcare Conference London",
       "url": "https://www.jefferies.com/wp-content/uploads/sites/4/2026/01/1_21_26_Jefferies_2026_Conference_Summit_Calendar.pdf",
       "status": "verified_dates_only",
-      "checked_at": "2026-10-31T12:00:02.342Z",
-      "notes": "Official organizer pages and issuer primary sources were rechecked; complete presenter agendas remain inaccessible."
+      "checked_at": "2026-10-31T12:01:35.401Z",
+      "notes": "Official conference calendar confirms Nov 16–19 in London, not company-specific presentation times."
     },
     {
       "organizer": "Stephens Annual Investment Conference",
-      "url": "https://www.stephens.com/",
-      "status": "incomplete",
-      "checked_at": "2026-10-31T12:00:02.342Z",
-      "error": "Organizer site accessible, but detailed speaker agenda not independently obtained.",
-      "notes": "Official organizer pages and issuer primary sources were rechecked; complete presenter agendas remain inaccessible."
+      "url": "https://www.stephens.com/uploads/shared/documents/Corporate-Access/Nashville-2026-Save-The-Date.pdf",
+      "status": "verified_dates_only",
+      "checked_at": "2026-10-31T12:01:35.401Z",
+      "notes": "Official organizer confirms Nov 17–19 in Nashville; issuer pages confirm timed PacBio and Veracyte presentations."
     },
     {
-      "organizer": "Stifel Healthcare Conference",
-      "url": "https://www.stifel.com/",
+      "organizer": "J.P. Morgan Healthcare Conference 2027",
+      "url": "https://www.jpmorgan.com/about-us/events-conferences/health-care-conference",
       "status": "incomplete",
-      "checked_at": "2026-10-31T12:00:02.342Z",
-      "error": "Organizer site accessible, but detailed conference agenda not independently obtained.",
-      "notes": "Official organizer pages and issuer primary sources were rechecked; complete presenter agendas remain inaccessible."
+      "checked_at": "2026-10-31T12:01:35.401Z",
+      "error": "Official organizer agenda inaccessible; DELFI issuer participation only, no timed public investor presentation."
     }
   ],
   "repository_status": {
