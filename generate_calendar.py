@@ -1,6 +1,8 @@
 import hashlib
 import json
+import os
 import re
+import tempfile
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -167,7 +169,21 @@ def main():
         ])
     lines.append("END:VCALENDAR")
     output = "\r\n".join(fold_line(line) for line in lines) + "\r\n"
-    ICS_FILE.write_text(output, encoding="utf-8", newline="")
+    # Write beside the published feed, then replace atomically to avoid truncated subscriptions.
+    temp_path = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w", encoding="utf-8", newline="", dir=ROOT,
+            prefix=".earnings-", suffix=".ics.tmp", delete=False
+        ) as temp:
+            temp_path = Path(temp.name)
+            temp.write(output)
+            temp.flush()
+            os.fsync(temp.fileno())
+        os.replace(temp_path, ICS_FILE)
+    finally:
+        if temp_path is not None:
+            temp_path.unlink(missing_ok=True)
 
 
 if __name__ == "__main__":
