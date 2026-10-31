@@ -68,9 +68,21 @@ jobs:
           git commit -m "Update earnings calendar feed"
           for attempt in 1 2 3; do
             if git push; then exit 0; fi
-            echo "Push attempt $attempt failed; retrying after rebase"
-            git pull --rebase origin "${GITHUB_REF_NAME}" || exit 1
-            sleep 5
+            echo "Push attempt $attempt failed; refetching current sources and regenerating feed"
+            # A rebase of generated ICS can conflict if another run published first.
+            # Rebuild from the latest remote source instead of merging calendar text.
+            git fetch origin "${GITHUB_REF_NAME}" || exit 1
+            git reset --hard "origin/${GITHUB_REF_NAME}" || exit 1
+            python validate_calendar.py || exit 1
+            python generate_calendar.py || exit 1
+            python validate_calendar.py --ics || exit 1
+            if git diff --quiet -- earnings.ics; then
+              echo "Current remote calendar already matches source"
+              exit 0
+            fi
+            git add earnings.ics
+            git commit -m "Update earnings calendar feed" || exit 1
+            sleep $((attempt * 5))
           done
           echo "Calendar publication failed after three attempts" >&2
           exit 1
