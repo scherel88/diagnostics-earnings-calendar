@@ -40,6 +40,14 @@ def main():
             if not uid or uid.group(1) in uids:
                 raise ValueError("Missing or duplicate calendar UID")
             uids.add(uid.group(1))
+            starts = re.search(r"^DTSTART:(\\d{8}T\\d{6}Z)$", block, flags=re.M)
+            ends = re.search(r"^DTEND:(\\d{8}T\\d{6}Z)$", block, flags=re.M)
+            if not starts or not ends:
+                raise ValueError("Calendar event missing valid UTC DTSTART/DTEND")
+            start_utc = datetime.strptime(starts.group(1), "%Y%m%dT%H%M%SZ")
+            end_utc = datetime.strptime(ends.group(1), "%Y%m%dT%H%M%SZ")
+            if end_utc - start_utc != timedelta(hours=1):
+                raise ValueError(f"Non-one-hour calendar event: {uid.group(1)}")
         for event in events.values():
             key = ("investor", event["event_id"]) if event.get("event_id") else (event["company"], event.get("quarter", event.get("period")), event["fiscal_year"])
             actual_start = results.get(key, {}).get("start_override", event["start"])
